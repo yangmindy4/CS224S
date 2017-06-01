@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?><transcript><text start="0.1" dur="2.6">[ SCHOOL BELL RINGS]</text><text start="16.133" dur="2.033">♪ ALL THE GIRLS ON THE BLOCK
+KNOCKING AT MY DOOR ♪</text><text start="20.033" dur="2.533">♪ WANNA KNOW WHAT IT IS TO MAKE
+THE BOYS WANT MORE ♪</text><text start="24.2" dur="3.966">♪ IS YOUR LOVER PLAYIN ON
+YOUR SIDE? ♪</text><text start="28.2" dur="4.3">♪ SAID HE LOVES YOU, BUT HE
+AIN&amp;#39;T GOT TIME ♪</text><text start="32.533" dur="6.267">♪ HERE&amp;#39;S THE ANSWER, COME AND
+GET IT AT A KNOCK DOWN PRICE ♪</text><text start="39" dur="1.266">♪ &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt; HEY!&lt;/i&gt;  ♪&lt;/font&gt;</text><text start="41.066" dur="4.234">♪ FULL OF HONEY, JUST TO MAKE
+HIM SWEET ♪</text><text start="45.333" dur="6.3">♪ CRYSTAL BALLIN, JUST TO
+HELP HIM SEE WHAT HE&amp;#39;S BEEN
+MISSING ♪</text><text start="51.666" dur="4.3">♪ SO COME AND GET IT WHILE YOU
+STILL GOT TIME ♪</text><text start="56.066" dur="1.5">♪ &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt; HEY!&lt;/i&gt;  ♪&lt;/font&gt;</text><text start="58.8" dur="3.7">♪ GET YOUR BOY ON HIS KNEES AND
+REPEAT AFTER ME, SAY: ♪</text><text start="63.433" dur="4.2">♪ TAKE A SIP OF MY SECRET POTION
+I&amp;#39;LL MAKE YOU FALL IN LOVE ♪</text><text start="67.666" dur="4.3">♪ FOR A SPELL THAT CAN&amp;#39;T
+BE BROKEN, ONE DROP SHOULD BE
+ENOUGH ♪</text><text start="72" dur="4">♪ BOY YOU BELONG TO ME
+I GOT THE RECIPE ♪</text><text start="76.033" dur="4.5">♪ AND IT&amp;#39;S CALLED BLACK MAGIC ♪
+♪ &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt; AND IT&amp;#39;S CALLED BLACK MAGIC&lt;/i&gt;  ♪&lt;/font&gt;</text><text start="80.566" dur="4.1">♪ TAKE A SIP OF MY SECRET POTION
+ONE TASTE AND YOU&amp;#39;LL BE MINE ♪</text><text start="84.7" dur="2.166">♪ IT&amp;#39;S A SPELL THAT CAN&amp;#39;T BE
+BROKEN ♪</text><text start="86.9" dur="2.166">♪ IT&amp;#39;LL KEEP YOU UP ALL NIGHT ♪</text><text start="89.1" dur="3.733">♪ BOY YOU BELONG TO ME
+I GOT THE RECIPE ♪</text><text start="92.866" dur="3.9">♪ AND IT&amp;#39;S CALLED BLACK MAGIC ♪
+♪ &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt; AND IT&amp;#39;S CALLED BLACK MAGIC&lt;/i&gt;  ♪&lt;/font&gt;</text><text start="96.8" dur="4.3">♪ IF YOU&amp;#39;RE LOOKING FOR MR
+RIGHT ♪</text><text start="101.133" dur="4.233">♪ NEED THAT MAGIC TO CHANGE HIM
+OVERNIGHT ♪</text><text start="105.4" dur="5.933">♪ HERE&amp;#39;S THE ANSWER, COME AND
+GET IT WHILE YOU STILL GOT
+TIME ♪</text><text start="111.733" dur="1.3">♪ &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt; HEY!&lt;/i&gt;  ♪&lt;/font&gt;</text><text start="114.333" dur="4.167">♪ GET YOUR BOY ON HIS KNEES AND
+REPEAT AFTER ME, SAY: ♪</text><text start="118.533" dur="4.833">♪ TAKE A SIP OF MY SECRET POTION
+I&amp;#39;LL MAKE YOU FALL IN LOVE ♪</text><text start="123.4" dur="2.066">♪ FOR A SPELL THAT CAN&amp;#39;T BE
+BROKEN ♪</text><text start="125.5" dur="2.166">♪ ONE DROP SHOULD BE ENOUGH ♪</text><text start="127.7" dur="3.7">♪ BOY YOU BELONG TO ME
+I GOT THE RECIPE ♪</text><text start="131.433" dur="4.767">♪ AND IT&amp;#39;S CALLED BLACK MAGIC ♪
+♪ &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt; AND IT&amp;#39;S CALLED BLACK MAGIC&lt;/i&gt;  ♪&lt;/font&gt;</text><text start="136.233" dur="2.1">♪ TAKE A SIP OF MY SECRET
+POTION ♪</text><text start="138.366" dur="2.134">♪ ONE TASTE AND YOU&amp;#39;LL BE MINE ♪</text><text start="140.533" dur="2.033">♪ IT&amp;#39;S A SPELL THAT CAN&amp;#39;T BE
+BROKEN ♪</text><text start="142.6" dur="2.2">♪ IT&amp;#39;LL KEEP YOU UP ALL NIGHT ♪</text><text start="144.833" dur="3.633">♪ BOY YOU BELONG TO ME
+I GOT THE RECIPE ♪</text><text start="148.5" dur="4.766">♪ AND IT&amp;#39;S CALLED BLACK MAGIC ♪
+♪ &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt; AND IT&amp;#39;S CALLED BLACK MAGIC&lt;/i&gt;  ♪&lt;/font&gt;</text><text start="153.3" dur="2.266">♪ ALL THE GIRLS ON THE BLOCK
+KNOCKIN AT MY DOOR ♪</text><text start="155.6" dur="1.533">♪ &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt; I GOT THE RECIPE&lt;/i&gt;  ♪&lt;/font&gt;</text><text start="157.166" dur="2.6">♪ WANNA KNOW WHAT IT IS
+MAKE THE BOYS WANT MORE ♪</text><text start="159.8" dur="1.566">♪ &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt; NOW YOU BELONG TO ME&lt;/i&gt;  ♪&lt;/font&gt;</text><text start="161.4" dur="2.7">♪ ALL THE GIRLS ON THE BLOCK
+KNOCKIN AT MY DOOR ♪</text><text start="164.133" dur="1.567">♪ &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt; I GOT THE RECIPE&lt;/i&gt;  ♪&lt;/font&gt;</text><text start="165.733" dur="2.633">♪ WANNA KNOW WHAT IT IS
+MAKE THE BOYS WANT MORE ♪</text><text start="168.4" dur="2.1">♪ &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt; NOW YOU BELONG TO ME&lt;/i&gt;  ♪&lt;/font&gt;</text><text start="170.533" dur="4.233">♪ TAKE A SIP OF MY SECRET POTION
+I&amp;#39;LL MAKE YOU FALL IN LOVE ♪</text><text start="174.8" dur="2.1">♪ FOR A SPELL THAT CAN&amp;#39;T
+BE BROKEN ♪</text><text start="176.933" dur="2.133">♪ ONE DROP SHOULD BE ENOUGH ♪</text><text start="179.1" dur="3.733">♪ BOY YOU BELONG TO ME
+♪ &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt; HEY!&lt;/i&gt;  ♪
+♪ I GOT THE RECIPE ♪&lt;/font&gt;</text><text start="182.866" dur="4.8">♪ AND IT&amp;#39;S CALLED, AND IT&amp;#39;S
+CALLED BLACK MAGIC ♪
+♪ &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt; AND IT&amp;#39;S CALLED BLACK MAGIC&lt;/i&gt;  ♪&lt;/font&gt;</text><text start="187.7" dur="4.2">♪ TAKE A SIP OF MY SECRET POTION
+ONE TASTE AND YOU&amp;#39;LL BE MINE ♪</text><text start="191.933" dur="4.4">♪ IT&amp;#39;S A SPELL THAT CAN&amp;#39;T BE
+BROKEN, IT&amp;#39;LL KEEP YOU UP ALL
+NIGHT ♪</text><text start="196.366" dur="3.734">♪ BOY YOU BELONG TO ME
+I GOT THE RECIPE ♪</text><text start="200.133" dur="4.4">♪ AND IT&amp;#39;S CALLED BLACK MAGIC ♪
+♪ &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt; AND IT&amp;#39;S CALLED, AND IT&amp;#39;S
+CALLED BLACK MAGIC&lt;/i&gt;  ♪&lt;/font&gt;</text><text start="204.566" dur="4.167">♪ FALLING IN LOVE, HEY! ♪
+♪ FALLING IN LOVE ♪</text><text start="208.766" dur="4.267">♪ FALLING IN LOVE, HEY! ♪
+♪ FALLING IN LOVE ♪</text><text start="213.066" dur="4.267">♪ FALLING IN LOVE, HEY! ♪
+♪ FALLING IN LOVE ♪</text><text start="217.366" dur="3.767">♪ FALLING IN LOVE, HEY! ♪
+♪ FALLING IN LOVE ♪</text><text start="221.166" dur="2.567">♪ MAGIC... ♪</text><text start="224.1" dur="2">[ MUSIC ENDS ]</text></transcript>

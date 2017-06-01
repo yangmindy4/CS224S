@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?><transcript><text start="0.6" dur="0.033">♪</text><text start="0.633" dur="0.033">♪</text><text start="0.666" dur="0.034">♪</text><text start="0.7" dur="13.466">♪ ♪</text><text start="14.2" dur="2.266">♪ SOMEWHERE IN THE WORLD
+THERE IS A FATHER ♪</text><text start="16.5" dur="3.866">♪ AND A MOTHER AND THE FATHER
+IS A SON WHO HAS A MOTHER ♪</text><text start="20.4" dur="3.166">♪ THE MOTHER HAS A DAUGHTER WHO
+GETS MARRIED TO THE BROTHER ♪</text><text start="23.6" dur="4.633">♪ OF THE MOTHER AND THEY
+ALL JUST TRYING TO MULTIPLY
+WITH ONE ANOTHER ♪</text><text start="28.266" dur="3.967">♪ &amp;#39;CAUSE THAT&amp;#39;S JUST
+THE WAY OF THE WORLD ♪</text><text start="32.266" dur="3.2">♪ IT NEVER ENDS TILL THE
+END, THEN YOU START AGAIN ♪</text><text start="35.5" dur="3.166">♪ THAT&amp;#39;S JUST THE WAY
+OF THE WORLD ♪</text><text start="38.7" dur="3.833">♪ THAT&amp;#39;S JUST THE
+WAY OF THE WORLD ♪</text><text start="42.566" dur="3.2">♪ SOMEWHERE IN THE WORLD,
+THEY THINK THEY&amp;#39;RE
+WORKING FOR THEMSELVES ♪</text><text start="46" dur="3.4">♪ BUT THEY GET UP
+EVERY DAY TO GO TO
+WORK FOR SOMEONE ELSE ♪</text><text start="49.433" dur="3.267">♪ AND SOMEBODY WORKS
+FOR THEM AND SO THEY
+THINK THEY GOT IT MADE ♪</text><text start="52.733" dur="3.533">♪ BUT THEY&amp;#39;RE ALL JUST WORKING
+TO GET PAID THE VERY SAME ♪</text><text start="56.3" dur="3.733">♪ AND SO THEY KEEP ON
+TWIDDLING THEM THUMBS ♪</text><text start="60.066" dur="3.234">♪ SKIDLEDEEE DEEE DAT DUM ♪</text><text start="60.066" dur="3.234">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ DUM, DUM, DUM, DUM ♪&lt;/i&gt;&lt;/font&gt;</text><text start="63.333" dur="3.7">♪ THEY GONNA KEEP ON
+TWIDDLING THEM THUMBS ♪</text><text start="67.066" dur="3.2">♪ SKIDLEDEEE DEEE DAT DUM DUM ♪</text><text start="67.066" dur="3.2">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ DUM, DUM, DUM, DUM ♪&lt;/i&gt;&lt;/font&gt;</text><text start="70.3" dur="3.933">♪ AND SO THEY KEEP ON
+TWIDDLING THEM THUMBS ♪</text><text start="74.266" dur="3.2">♪ SKIDLEDEEE DEEE DAT DUM ♪</text><text start="74.266" dur="3.2">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ SKIDLEDEEE DEEE DAT DUM ♪&lt;/i&gt;&lt;/font&gt;</text><text start="77.5" dur="3.7">♪ THEY GONNA KEEP ON
+TWIDDLING THEM THUMBS ♪</text><text start="81.233" dur="3.9">♪ SKIDLEDEEE DEEE DAT DUM DUM ♪</text><text start="81.233" dur="3.9">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ DUM, DUM, DUM, DUM ♪&lt;/i&gt;&lt;/font&gt;</text><text start="85.166" dur="3.134">♪ SOMEWHERE IN THE WORLD
+YOU GOT A ROBBER AND A BANK ♪</text><text start="88.333" dur="3.433">♪ AND THE BANK ROBBED THE PEOPLE
+SO THE PEOPLE ROB THE BANK ♪</text><text start="92" dur="3.566">♪ AND THE POLICE CAME TO GET
+HIM BUT THEY LET HIM GET AWAY ♪</text><text start="95.6" dur="3.633">♪ &amp;#39;CAUSE THEY&amp;#39;RE ALL
+JUST WORKING TO GET
+PAID THE VERY SAME ♪</text><text start="99.266" dur="4.034">♪ &amp;#39;CAUSE THAT&amp;#39;S JUST
+THE WAY OF THE WORLD ♪</text><text start="103.333" dur="3.1">♪ IT NEVER ENDS TILL THE END,
+THEN YOU START AGAIN ♪</text><text start="103.333" dur="3.1">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ AND THEN YOU START AGAIN ♪&lt;/i&gt;&lt;/font&gt;</text><text start="106.466" dur="3.3">♪ THAT&amp;#39;S JUST THE WAY
+OF THE WORLD ♪</text><text start="110" dur="3">♪ THAT&amp;#39;S JUST THE
+WAY OF THE WORLD ♪</text><text start="113.033" dur="3.667">♪ AND SO THEY KEEP
+ON TWIDDLING THEM THUMBS ♪</text><text start="116.733" dur="3.467">♪ SKIDLEDEEE DEEE DAT DUM ♪</text><text start="116.733" dur="3.467">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ SKIDLEDEEE DEEE DAT DUM ♪&lt;/i&gt;&lt;/font&gt;</text><text start="120.233" dur="3.5">♪ THEY GONNA KEEP ON
+TWIDDLING THEM THUMBS ♪</text><text start="123.766" dur="3.4">♪ SKIDLEDEEE DEEE DAT DUM DUM ♪</text><text start="123.766" dur="3.4">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ DUM, DUM, DUM, DUM ♪&lt;/i&gt;&lt;/font&gt;</text><text start="127.2" dur="3.8">♪ AND SO THEY KEEP ON
+TWIDDLING THEM THUMBS ♪</text><text start="131.033" dur="3.333">♪ SKIDLEDEEE DEEE DAT DUM ♪</text><text start="131.033" dur="3.333">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ SKIDLEDEEE DEEE DAT DUM ♪&lt;/i&gt;&lt;/font&gt;</text><text start="134.4" dur="3.666">♪ THEY GONNA KEEP ON
+TWIDDLING THEM THUMBS ♪</text><text start="138.1" dur="4.266">♪ SKIDLEDEEE DEEE DAT DUM DUM ♪</text><text start="138.1" dur="4.266">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ DUM, DUM, DUM, DUM ♪&lt;/i&gt;&lt;/font&gt;</text><text start="142.4" dur="3.366">♪ DON&amp;#39;T BELIEVE
+EVERYTHING THAT YOU HEAR ♪</text><text start="146" dur="3.333">♪ LET IT GO THROUGH
+YOUR LEFT AND RIGHT EAR ♪</text><text start="149.366" dur="2.867">♪ DON&amp;#39;T JUST MARCH
+TO THE BEAT OF THAT DRUM ♪</text><text start="152.266" dur="3.834">♪ DON&amp;#39;T BE ONE OF THEM PEOPLE
+JUST TWIDDLING THEM THUMBS ♪</text><text start="156.133" dur="4">♪ &amp;#39;CAUSE THAT&amp;#39;S JUST
+THE WAY OF THE WORLD ♪</text><text start="156.133" dur="4">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ WAY OF THE WORLD ♪&lt;/i&gt;&lt;/font&gt;</text><text start="160.166" dur="3.067">♪ IT NEVER ENDS TILL THE END
+AND THEN YOU START AGAIN ♪</text><text start="160.166" dur="3.067">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ START AGAIN ♪&lt;/i&gt;&lt;/font&gt;</text><text start="163.266" dur="3.367">♪ THAT&amp;#39;S JUST THE WAY
+OF THE WORLD ♪</text><text start="166.666" dur="3.4">♪ THAT&amp;#39;S JUST THE
+WAY OF THE WORLD ♪</text><text start="170.1" dur="3.5">♪ AND SO THEY KEEP ON
+TWIDDLING THEM THUMBS ♪</text><text start="173.633" dur="3.533">♪ SKIDLEDEEE DEEE DAT DUM ♪</text><text start="173.633" dur="3.533">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ SKIDLEDEEE DEEE DAT DUM ♪&lt;/i&gt;&lt;/font&gt;</text><text start="177.2" dur="3.466">♪ THEY GONNA KEEP ON
+TWIDDLING THEM THUMBS ♪</text><text start="180.7" dur="3.466">♪ SKIDLEDEEE DEEE DAT DUM DUM ♪</text><text start="180.7" dur="3.466">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ DUM, DUM, DUM, DUM ♪&lt;/i&gt;&lt;/font&gt;</text><text start="184.2" dur="3.5">♪ AND SO THEY KEEP ON
+TWIDDLING THEM THUMBS ♪</text><text start="187.733" dur="3.4">♪ SKIDLEDEEE DEEE DAT DUM ♪</text><text start="187.733" dur="3.4">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ SKIDLEDEEE DEEE DAT DUM ♪&lt;/i&gt;&lt;/font&gt;</text><text start="191.166" dur="3.834">♪ THEY GONNA KEEP ON
+TWIDDLING THEM THUMBS ♪</text><text start="195.033" dur="3.233">♪ SKIDLEDEEE DEEE DAT DUM DUM ♪</text><text start="195.033" dur="3.233">♪ SKIDLEDEEE DEEE DAT, DAT-DAT,
+DA-DUM, DUM, DUM, DUM ♪</text><text start="198.3" dur="3.7">♪ AND SO THEY KEEP ON
+TWIDDLING THEM THUMBS ♪</text><text start="198.3" dur="3.7">♪ THEY KEEP ON, THEY KEEP ON ♪</text><text start="202.033" dur="2.533">♪ SKIDLEDEEE DEEE DAT DUM ♪</text><text start="202.033" dur="2.533">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ DUM, DUM, DUM, DUM ♪&lt;/i&gt;&lt;/font&gt;</text><text start="204.6" dur="4.566">♪ THEY KEEP ON, THEY KEEP ON ♪</text><text start="204.6" dur="4.566">♪ THEY GONNA KEEP ON
+TWIDDLING THEM THUMBS ♪</text><text start="209.2" dur="3.066">♪ SKIDLEDEEE DEEE DAT DUM DUM ♪</text><text start="209.2" dur="3.066">♪ THAT&amp;#39;S JUST
+THE WAY OF THE WORLD ♪</text></transcript>

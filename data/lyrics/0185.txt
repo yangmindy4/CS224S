@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?><transcript><text start="0.566" dur="0.067"></text><text start="0.633" dur="0.033">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;(&lt;/i&gt;&lt;/font&gt;</text><text start="0.666" dur="0.034">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;( R&amp;amp;&lt;/i&gt;&lt;/font&gt;</text><text start="0.7" dur="0.033">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;( R&amp;amp;B&lt;/i&gt;&lt;/font&gt;</text><text start="0.733" dur="0.033">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;( R&amp;amp;B mu&lt;/i&gt;&lt;/font&gt;</text><text start="0.766" dur="0.034">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;( R&amp;amp;B musi&lt;/i&gt;&lt;/font&gt;</text><text start="0.8" dur="0.033">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;( R&amp;amp;B music&lt;/i&gt;&lt;/font&gt;</text><text start="0.833" dur="0.033">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;( R&amp;amp;B music pl&lt;/i&gt;&lt;/font&gt;</text><text start="0.866" dur="0.034">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;( R&amp;amp;B music play&lt;/i&gt;&lt;/font&gt;</text><text start="0.9" dur="0.033">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;( R&amp;amp;B music playin&lt;/i&gt;&lt;/font&gt;</text><text start="0.933" dur="0.033">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;( R&amp;amp;B music playing&lt;/i&gt;&lt;/font&gt;</text><text start="0.966" dur="2.2">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;( R&amp;amp;B music playing )&lt;/i&gt;&lt;/font&gt;</text><text start="4.4" dur="3.933">( vocalizes )</text><text start="11.633" dur="3.267">♪♪ OH-OH, OOH ♪♪</text><text start="14.966" dur="2.9">♪♪ OH-OH ♪♪</text><text start="17.933" dur="1.633">♪♪ SWEET LOVE ♪♪</text><text start="19.633" dur="2.533">♪♪ YEAH, YEAH ♪♪</text><text start="22.233" dur="1.6">♪♪ I DIDN&amp;#39;T MEAN IT
+WHEN I SAID ♪♪</text><text start="23.9" dur="1.6">♪♪ I DIDN&amp;#39;T LOVE YOU SO ♪♪</text><text start="25.566" dur="1.434">♪♪ I SHOULD HAVE
+HELD ON TIGHT ♪♪</text><text start="27.066" dur="1.934">♪♪ I NEVER SHOULD HAVE
+LET YOU GO ♪♪</text><text start="29.066" dur="1.867">♪♪ I DIDN&amp;#39;T KNOW NOTHING,
+I WAS STUPID ♪♪</text><text start="31" dur="4.6">♪♪ I WAS FOOLISH,
+I WAS LYING TO MYSELF ♪♪</text><text start="35.666" dur="1.434">♪♪ I COULDN&amp;#39;T HAVE FATHOMED♪</text><text start="37.166" dur="1.867">♪♪ I WOULD EVER BE
+WITHOUT YOUR LOVE ♪♪</text><text start="39.1" dur="3.366">♪♪ NEVER IMAGINED I&amp;#39;D BE
+SITTING HERE BESIDE MYSELF ♪</text><text start="42.533" dur="1.833">♪♪ GUESS I DIDN&amp;#39;T KNOW YO,
+GUESS I DIDN&amp;#39;T KNOW ME ♪♪</text><text start="44.433" dur="1.5">♪♪ BUT IF I KNEW EVERYTHING♪</text><text start="46" dur="3.266">♪♪ I NEVER FELT ♪♪</text><text start="49.333" dur="1.767">♪♪ THE FEELING
+THAT I&amp;#39;M FEELING ♪♪</text><text start="51.166" dur="1.567">♪♪ NOW THAT I DON&amp;#39;T
+HEAR YOUR VOICE ♪♪</text><text start="52.8" dur="2.033">♪♪ OR HAVE YOUR TOUCH
+AND KISS YOUR LIPS ♪♪</text><text start="54.9" dur="1.766">♪♪ &amp;#39;CAUSE I DON&amp;#39;T HAVE
+A CHOICE ♪♪</text><text start="56.733" dur="3">♪♪ OH, WHAT I WOULDN&amp;#39;T GIE
+TO HAVE YOU LYING BY MY SIDE ♪</text><text start="59.8" dur="2.966">♪♪ RIGHT HERE,
+&amp;#39;CAUSE, BABY ♪♪</text><text start="62.833" dur="1.633">♪♪ WHEN YOU LEFT ♪♪</text><text start="64.533" dur="3.133">♪♪ I LOST A PART OF ME ♪♪</text><text start="67.733" dur="3">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪♪ IT&amp;#39;S STILL
+SO HARD TO BELIEVE ♪♪&lt;/i&gt;&lt;/font&gt;</text><text start="70.8" dur="2">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪♪ COME BACK,
+BABY, PLEASE ♪♪&lt;/i&gt;&lt;/font&gt;</text><text start="72.866" dur="2.8">♪♪ &amp;#39;CAUSE WE BELONG TOGETHE♪</text><text start="75.733" dur="1.933">♪♪ WHO ELSE AM I GOING
+TO LEAN ON ♪♪</text><text start="77.733" dur="1.533">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪♪ WHEN TIMES GET ROUGH?♪&lt;/i&gt;&lt;/font&gt;</text><text start="79.333" dur="1.467">♪♪ WHO&amp;#39;S GONNA TALK
+TO ME ON THE PHONE ♪♪</text><text start="80.866" dur="1.434">♪♪ TILL THE SUN COMES UP?♪</text><text start="82.366" dur="1.8">♪♪ WHO&amp;#39;S GONNA
+TAKE YOUR PLACE? ♪♪</text><text start="84.233" dur="2.667">♪♪ THERE AIN&amp;#39;T NOBODY BETTE,
+OH, BABY, BABY ♪♪</text><text start="86.966" dur="3.4">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪♪ WE BELONG TOGETHER ♪♪&lt;/i&gt;&lt;/font&gt;</text><text start="90.433" dur="1.433">♪♪ I CAN&amp;#39;T SLEEP
+AT NIGHT ♪♪</text><text start="91.933" dur="1.767">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪♪ WHEN YOU ARE
+ON MY MIND ♪♪&lt;/i&gt;&lt;/font&gt;</text><text start="93.766" dur="2.967">♪♪ BOBBY WOMACK&amp;#39;S
+ON THE RADIO SINGING TO ME ♪</text><text start="96.8" dur="2.633">♪♪ &amp;quot;IF YOU THINK
+YOU&amp;#39;RE LONELY NOW&amp;quot;♪♪</text><text start="99.5" dur="2.5">♪♪ WAIT A MINUTE,
+THIS IS TOO DEEP,
+TOO DEEP ♪♪</text><text start="102.066" dur="2">♪♪ I&amp;#39;VE GOT TO CHANGE
+THE STATION ♪♪</text><text start="104.133" dur="3.1">♪♪ SO I TURN THE DIAL
+TRYING TO CATCH A BREAK ♪♪</text><text start="107.3" dur="2.133">♪♪ AND THEN I HEAR
+BABYFACE ♪♪</text><text start="109.5" dur="4.2">♪♪ &amp;quot;I ONLY THINK OF YOU&amp;quot;
+AND IT&amp;#39;S BREAKING MY HEART ♪</text><text start="113.766" dur="1.8">♪♪ I&amp;#39;M TRYING
+TO KEEP IT TOGETHER ♪♪</text><text start="115.633" dur="1.533">♪♪ BUT I&amp;#39;M FALLING APART ♪♪</text><text start="117.233" dur="2.4">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪♪ I&amp;#39;M FEELING
+ALL OUT OF MY ELEMENT ♪♪&lt;/i&gt;&lt;/font&gt;</text><text start="119.7" dur="1.666">♪♪ THROWING THINGS,
+CRYING ♪♪</text><text start="121.433" dur="2.2">♪♪ TRYING TO FIGURE OUT
+WHERE THE HELL
+I WENT WRONG ♪♪</text><text start="123.7" dur="1.433">♪♪ THE PAIN REFLECTED
+IN THIS SONG ♪♪</text><text start="125.2" dur="2.4">♪♪ AIN&amp;#39;T EVEN HALF OF WHAT
+I&amp;#39;M FEELING INSIDE ♪♪</text><text start="127.666" dur="2.067">♪♪ I NEED YOU, NEED YOU
+BACK IN MY LIFE ♪♪</text><text start="129.8" dur="1.433">♪♪ BABY ♪♪</text><text start="131.3" dur="1.433">♪♪ WHEN YOU LEFT ♪♪</text><text start="132.8" dur="2.866">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪♪ I LOST A PART OF ME ♪♪&lt;/i&gt;&lt;/font&gt;</text><text start="135.733" dur="3.567">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪♪ IT&amp;#39;S STILL
+SO HARD TO BELIEVE ♪♪&lt;/i&gt;&lt;/font&gt;</text><text start="139.366" dur="2.2">♪♪ COME BACK, BABY,
+PLEASE ♪♪</text><text start="141.633" dur="2.067">♪♪ &amp;#39;CAUSE WE BELONG TOGETHE♪</text><text start="143.766" dur="2.1">♪♪ WHO ELSE AM I
+GONNA LEAN ON ♪♪</text><text start="145.933" dur="1.633">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪♪ WHEN TIMES GET ROUGH?♪&lt;/i&gt;&lt;/font&gt;</text><text start="147.633" dur="1.933">♪♪ WHO&amp;#39;S GONNA TALK TO ME
+ON THE PHONE ♪♪</text><text start="149.633" dur="1.5">♪♪ TILL THE SUN COMES UP?♪</text><text start="151.2" dur="1.433">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪♪ WHO&amp;#39;S GONNA
+TAKE YOUR PLACE? ♪♪&lt;/i&gt;&lt;/font&gt;</text><text start="152.7" dur="1.833">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪♪ THERE AIN&amp;#39;T
+NOBODY BETTER ♪♪&lt;/i&gt;&lt;/font&gt;</text><text start="154.6" dur="4.033">♪♪ OH, BABY, BABY,
+WE BELONG TOGETHER, BABY!♪</text><text start="158.7" dur="1.633">♪♪ WHEN YOU LEFT ♪♪</text><text start="160.4" dur="3.033">♪♪ I LOST A PART OF ME ♪♪</text><text start="163.5" dur="2.866">♪♪ IT&amp;#39;S STILL
+SO HARD TO BELIEVE ♪♪</text><text start="166.433" dur="2.4">♪♪ COME BACK,
+BABY, PLEASE ♪♪</text><text start="168.9" dur="3">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪♪ &amp;#39;CAUSE WE BELONG TOGETHER♪&lt;/i&gt;&lt;/font&gt;</text><text start="171.966" dur="2.734">♪♪ WHO AM I GONNA LEAN ON
+WHEN TIMES GET ROUGH? ♪♪</text><text start="174.766" dur="1.967">♪♪ WHO&amp;#39;S GONNA TALK TO ME♪</text><text start="176.8" dur="2.033">♪♪ TILL THE SUN COMES UP?♪</text><text start="178.9" dur="2.933">♪♪ WHO&amp;#39;S GONNA TAKE YOUR PLAC?
+THERE AIN&amp;#39;T NOBODY BETTER♪</text><text start="181.9" dur="4.9">♪♪ OH, BABY, BABY,
+WE BELONG TOGETHER ♪♪</text><text start="186.866" dur="3.2">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪♪ ALWAYS ♪♪&lt;/i&gt;&lt;/font&gt;</text><text start="190.133" dur="3.633">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪♪ ALWAYS ♪♪&lt;/i&gt;&lt;/font&gt;</text><text start="193.833" dur="2.5">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪♪ ALWAYS ♪♪&lt;/i&gt;&lt;/font&gt;</text><text start="196.4" dur="3.333">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪♪ WE BELONG TOGETHER. ♪♪&lt;/i&gt;&lt;/font&gt;</text></transcript>

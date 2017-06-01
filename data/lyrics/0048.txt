@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" ?><transcript><text start="0.533" dur="1.533">(PHONE RINGING)</text><text start="2.1" dur="1.533">(ADAM ANSWERS)
+HEY JONATHAN</text><text start="3.666" dur="2.4">JOHNATHAN: &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;HEY MAN, CAN YOU STOP
+BY A PARTY OVER AT FUTURE&amp;#39;S?&lt;/i&gt;&lt;/font&gt;</text><text start="6.1" dur="1.266">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;HE WANTS TO PLAY YOU THE NEW
+TRACK&lt;/i&gt;&lt;/font&gt;</text><text start="7.4" dur="1.7">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;HE SAYS IT WON&amp;#39;T TAKE LONG.&lt;/i&gt;&lt;/font&gt;</text><text start="9.133" dur="1">AH...</text><text start="10.633" dur="1.8">NO? CAN I SAY NO?</text><text start="12.466" dur="1.967">JOHNATHAN: &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;HE REALLY WANTS YOU
+TO HEAR IT IN PERSON.&lt;/i&gt;&lt;/font&gt;</text><text start="14.466" dur="3.6">ALRIGHT, UM, SURE, I&amp;#39;LL GO BUT
+I - I&amp;#39;M NOT GOING TO STAY LONG.</text><text start="18.1" dur="0.966">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;JOHNATHAN: YOU&amp;#39;RE THE BEST&lt;/i&gt;&lt;/font&gt;</text><text start="19.1" dur="1.366">ADAM: ALRIGHT, THANKS.
+(HANGS UP)</text><text start="20.5" dur="3.1">(PHONE RINGS)
+BEHATI: HEY BABE.</text><text start="23.633" dur="2.133">HEY. UH, I&amp;#39;VE GOT TO GO TO
+FUTURE&amp;#39;S HOUSE</text><text start="26" dur="1.2">HE&amp;#39;S HAVING A PARTY AND HE WANTS
+TO PLAY ME</text><text start="27.233" dur="1.4">THE VERSE THAT HE DID ON COLD</text><text start="28.666" dur="1.9">BUT I&amp;#39;LL BE BACK SOON, I&amp;#39;M JUST
+GONNA DRINK THEN I&amp;#39;LL SPLIT</text><text start="30.6" dur="3.4">BAHATI: OK COOL, UH CAN YOU JUST
+STOP AND GET US SOME MILK,
+PLEEEASE?</text><text start="34.033" dur="2.233">SURE - YOU&amp;#39;VE NEVER MADE THAT
+REQUEST</text><text start="36.3" dur="1.366">BAHATI: UH, BUT WE NEED MILK.</text><text start="37.7" dur="1.6">THEN MILK YOU SHALL HAVE.</text><text start="39.333" dur="1.433">BAHATI: LOVE YOU!
+LOVE YOU TOO. (HANGS UP)</text><text start="41.2" dur="1.966">(PHONE RINGS)</text><text start="43.2" dur="2.166">FUTURE: YO, WHAT&amp;#39;S GOOD ADAM?
+YOU NEED TO COME THROUGH.</text><text start="45.4" dur="2.266">FUCK YEA I&amp;#39;M COMING, I&amp;#39;M SUPER -
+PUMPED!</text><text start="48.333" dur="1.033">I CAN&amp;#39;T WAIT TO HEAR IT.</text><text start="49.4" dur="1.833">FUTURE: IT&amp;#39;S A MAJOR VIBE</text><text start="51.266" dur="0.9">CAN&amp;#39;T WAIT MAN!</text><text start="53.333" dur="1.033">I CAN&amp;#39;T WAIT.</text><text start="54.4" dur="3.133">♪ COLD ENOUGH TO CHILL
+MY BONES ♪</text><text start="57.566" dur="3.667">♪ IT FEELS LIKE I DON&amp;#39;T
+KNOW YOU ANY MORE ♪</text><text start="61.266" dur="4.067">♪ I DON&amp;#39;T UNDERSTAND WHY YOU&amp;#39;RE
+SO COLD TO ME ♪</text><text start="65.366" dur="2.3">♪ WITH EVERY BREATH YOU
+BREATHE ♪</text><text start="67.7" dur="3.333">♪ I SEE THERE&amp;#39;S SOMETHING
+GOING ON ♪</text><text start="71.066" dur="3.034">♪ I DON&amp;#39;T UNDERSTAND WHY YOU&amp;#39;RE
+SO COLD ♪</text><text start="74.133" dur="2.133">♪ ARE WE TAKING TIME OR A
+TIME OUT ♪</text><text start="76.3" dur="2.266">♪ I CAN&amp;#39;T TAKE THE IN BETWEEN ♪</text><text start="78.6" dur="2.566">♪ ASKING ME FOR SPACE HERE IN MY
+HOUSE ♪</text><text start="81.2" dur="1.866">♪ YOU KNOW HOW TO FUCK WITH ME ♪</text><text start="83.1" dur="2.4">♪ ACTING LIKE WE&amp;#39;RE NOT
+TOGETHER, ♪</text><text start="85.533" dur="2.233">♪ AFTER EVERYTHING THAT WE&amp;#39;VE
+BEEN THROUGH ♪</text><text start="88" dur="2.333">♪ SLEEPING UP UNDER THE COVERS ♪</text><text start="90.366" dur="2.267">♪ HOW AM I SO FAR AWAY
+FROM YOU ♪</text><text start="92.666" dur="4.034">♪ DISTANT, WHEN WE&amp;#39;RE KISSING ♪</text><text start="96.733" dur="1.967">♪ FEELS SO DIFFERENT ♪</text><text start="99.5" dur="2.733">♪ BABY TELL ME HOW DID YOU GET
+SOOOOOOO ♪</text><text start="102.266" dur="3.267">♪ COLD ENOUGH TO CHILL
+MY BONES ♪</text><text start="105.566" dur="3.734">♪ IT FEELS LIKE I DON&amp;#39;T KNOW
+YOU ANY MORE ♪</text><text start="109.333" dur="4">♪ I DON&amp;#39;T UNDERSTAND WHY YOU&amp;#39;RE
+SO COLD TO ME ♪</text><text start="113.366" dur="2.234">♪ WITH EVERY BREATH YOU
+BREATHE ♪</text><text start="115.633" dur="3.033">♪ I SEE THERE&amp;#39;S SOMETHING
+GOING ON ♪</text><text start="118.7" dur="3.8">♪ I DON&amp;#39;T UNDERSTAND WHY YOU&amp;#39;RE
+SO COLD ♪</text><text start="122.533" dur="2.933">♪ YEAH WOO OHHH YEAH ♪</text><text start="125.5" dur="2.766">♪ WOO OHHH YEAH ♪</text><text start="128.533" dur="2.967">♪ I DON&amp;#39;T UNDERSTAND WHY YOU&amp;#39;RE
+SO COLD ♪</text><text start="131.533" dur="2.233">♪ WHAT YA HOLDIN ON
+HOLDIN ON FOR ♪</text><text start="134" dur="2.2">♪ IF YOU WANNA LEAVE
+JUST LEAVE ♪</text><text start="136.233" dur="2.333">♪ WHY YOU WANNA BITE YOUR
+TONGUE FOR ♪</text><text start="138.6" dur="1.933">♪ THE SILENCE IS KILLING ME ♪</text><text start="140.566" dur="2.567">♪ ACTING LIKE WE&amp;#39;RE NOT
+TOGETHER ♪</text><text start="143.166" dur="2.234">♪ IF YOU DON&amp;#39;T WANT THIS THEN
+WHAT&amp;#39;S THE USE ♪</text><text start="145.433" dur="2.567">♪ SLEEPING UP UNDER THE
+COVERS ♪</text><text start="148.033" dur="2.233">♪ HOW AM I SO FAR AWAY
+FROM YOU ♪</text><text start="150.3" dur="4.033">♪ DISTANT (OH) , WHEN WE&amp;#39;RE
+KISSING (YEAH) ♪</text><text start="154.366" dur="2.8">♪ FEELS SO DIFFERENT (YEAH) ♪</text><text start="157.2" dur="2.466">♪ BABY TELL ME HOW DID YOU GET
+SOOOOOOO ♪</text><text start="159.7" dur="3.433">♪ COLD ENOUGH TO CHILL
+MY BONES ♪</text><text start="163.166" dur="3.367">♪ IT FEELS LIKE I DON&amp;#39;T KNOW YOU
+ANY MORE ♪</text><text start="167.1" dur="3.633">♪ I DON&amp;#39;T UNDERSTAND WHY YOU&amp;#39;RE
+SO COLD TO ME ♪</text><text start="170.766" dur="2.4">♪ WITH EVERY BREATH YOU
+BREATHE ♪</text><text start="173.2" dur="2.9">♪ I SEE THERE&amp;#39;S SOMETHING
+GOING ON ♪</text><text start="176.5" dur="3.533">♪ I DON&amp;#39;T UNDERSTAND WHY YOU&amp;#39;RE
+SO COLD ♪</text><text start="180.066" dur="3.034">♪ YEAH WOO OHHH YEAH ♪</text><text start="183.133" dur="2.5">♪ WOO OHHH YEAH ♪</text><text start="186.166" dur="2.3">♪ I DON&amp;#39;T UNDERSTAND WHY
+YOU&amp;#39;RE SO ♪</text><text start="188.5" dur="1.666">♪ COLD, YEAH
+- &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;SO TOUGH IT&amp;#39;S A COLD
+WORLD&lt;/i&gt; ♪&lt;/font&gt;</text><text start="190.2" dur="2.233">♪ WOO OHHH YEAH
+- &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;SO TOUGH IT&amp;#39;S A COLD
+WORLD&lt;/i&gt; ♪&lt;/font&gt;</text><text start="192.466" dur="3.1">♪ WOO OH - OHHH YEAH
+- &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;SO TOUGH IT&amp;#39;S A COLD
+WORLD&lt;/i&gt; ♪&lt;/font&gt;</text><text start="195.6" dur="3.5">♪ I DON&amp;#39;T UNDERSTAND WHY YOU&amp;#39;RE
+SO COLD ♪</text><text start="199.133" dur="1.9">♪ (FUTURE) NEVER THOUGHT THAT
+YOU WERE LIKE THIS ♪</text><text start="201.066" dur="2.167">♪ I TOOK THE TAG OFF AND
+MADE YOU PRICELESS ♪</text><text start="203.266" dur="2.267">♪ I JUST SPENT A HALF A MIL ON A
+CHANDELIER ♪</text><text start="205.566" dur="2.2">♪ NOW YOU TRYNA CUT ME OFF
+LIKE A LIGHT SWITCH ♪</text><text start="208.466" dur="2.134">♪ TRY &amp;#39;N STAY IN OUR LEAGUE ♪</text><text start="210.633" dur="2.533">♪ SAYIN THAT YOU NEED TO
+SOMETIME TO BREATHE ♪</text><text start="213.2" dur="2.066">♪ THINKING THAT I&amp;#39;M SLEEPING ON
+THE FOUR LETTER WORD ♪</text><text start="215.3" dur="2.166">♪ BUT THE FOUR LETTER WORD DON&amp;#39;T
+SLEEP ♪</text><text start="218.033" dur="2.2">♪ WE GOIN&amp;#39; TWO SEPARATE WAYS ♪</text><text start="220.266" dur="2.4">♪ YOU AIN&amp;#39;T BEEN ACTING
+THE SAME ♪</text><text start="222.7" dur="2.733">♪ YOU GOTTA GO GIRL WHERE YA
+HEART USED TO BE, ♪</text><text start="225.466" dur="1.734">♪ YOU GON DIG EVERY DAY ♪</text><text start="227.466" dur="1.7">♪ I SPENT THE
+AND TURNT UP ♪</text><text start="229.2" dur="2.833">♪ CAUSE I CAN&amp;#39;T LET MY JOB OR
+HEAR WHAT YA SAY ♪</text><text start="232.433" dur="1.2">♪ GIRL I TRIED TO GIVE
+YA SPACE ♪</text><text start="233.666" dur="3.6">♪ BABY TELL ME HOW DID YOU GET
+SO COLD? ♪</text><text start="237.3" dur="1.7">FUTURE: HEY MAN, I APPRECIATE
+YOU COMING.</text><text start="242.2" dur="1.1">THANK YOU.</text><text start="244" dur="0.766">HOW&amp;#39;S THE PARTY?</text><text start="246.666" dur="0.9">IT&amp;#39;S...</text><text start="254.266" dur="1.034">YOU TRIPPIN&amp;#39; AGAIN?</text><text start="256.566" dur="1.8">HEY MAN, YOU GOTTA CHILL OUT!</text><text start="260.033" dur="0.5">YOU SEE THAT?</text><text start="261.6" dur="0.866">DON&amp;#39;T TELL ME YOU&amp;#39;RE SEEING SHIT
+AGAIN.</text><text start="265.366" dur="1.134">YOU MIGHT NEED SOME SLEEP.</text><text start="269.466" dur="1.067">YOU HIGH?</text><text start="270.566" dur="2.434">YEAH, NO, I MEAN - NO.</text><text start="281.433" dur="3.067">♪ COLD ENOUGH TO CHILL
+MY BONES ♪</text><text start="284.533" dur="3.867">♪ IT FEELS LIKE I DON&amp;#39;T KNOW YOU
+ANY MORE ♪</text><text start="288.433" dur="3.967">♪ I DON&amp;#39;T UNDERSTAND WHY YOU&amp;#39;RE
+SO COLD TO ME ♪</text><text start="292.433" dur="2.2">♪ WITH EVERY BREATH YOU
+BREATHE ♪</text><text start="294.666" dur="3.034">♪ I SEE THERE&amp;#39;S SOMETHING
+GOING ON ♪</text><text start="297.733" dur="2.7">♪ I DON&amp;#39;T UNDERSTAND WHY
+YOU&amp;#39;RE SO ♪</text><text start="300.466" dur="1.767">♪ COLD, YEAH
+- &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;SO TOUGH IT&amp;#39;S A COLD
+WORLD&lt;/i&gt; ♪&lt;/font&gt;</text><text start="302.266" dur="2.167">♪ WOO OHHH YEAH
+- &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;SO TOUGH IT&amp;#39;S A COLD
+WORLD&lt;/i&gt; ♪&lt;/font&gt;</text><text start="304.466" dur="3.034">♪ WOO OH - OHHH YEAH
+- &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;SO TOUGH IT&amp;#39;S A COLD
+WORLD&lt;/i&gt; ♪&lt;/font&gt;</text><text start="307.533" dur="2.5">♪ I DON&amp;#39;T UNDERSTAND WHY
+YOU&amp;#39;RE SO ♪</text><text start="310.066" dur="1.567">♪ COLD, YEAH
+- &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;SO TOUGH IT&amp;#39;S A COLD
+WORLD&lt;/i&gt; ♪&lt;/font&gt;</text><text start="311.666" dur="2.567">♪ WOO OHHH YEAH
+- &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;SO TOUGH IT&amp;#39;S A COLD
+WORLD&lt;/i&gt; ♪&lt;/font&gt;</text><text start="314.266" dur="2.967">♪ WOO OH - OHHH YEAH
+- &lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;SO TOUGH IT&amp;#39;S A COLD
+WORLD&lt;/i&gt; ♪&lt;/font&gt;</text><text start="317.266" dur="3.734">♪ I DON&amp;#39;T UNDERSTAND WHY YOU&amp;#39;RE
+SO COLD ♪</text><text start="328" dur="1.5">I SEE IT SO CLEARLY NOW.</text><text start="330.166" dur="1.567">IT WAS NEVER ABOUT THE MILK.</text><text start="333.2" dur="1.466">GOT ROOM FOR ONE MORE, BOYS?</text><text start="338.333" dur="0.967">BAHATI: HEY</text><text start="340.2" dur="2.233">HEY.
+- HOW WAS IT?</text><text start="343.233" dur="2.3">IT WAS WEIRD
+- OH?</text><text start="345.566" dur="1.9">YEAH SOMEBODY SLIPPED SOMETHING
+IN MY DRINK</text><text start="347.5" dur="3">I THINK IT WAS ACID CAUSE I WAS
+SORT OF TRIPPING BALLS</text><text start="350.533" dur="1.6">FUTURE TURNED INTO A TEDDY BEAR</text><text start="352.166" dur="2">AND JAMES WAS GETTING BLOWN BY A
+CHICKEN</text><text start="354.266" dur="1.867">- MM HMM
+IT WAS CRAZY</text><text start="356.166" dur="1.934">AND THEN I GOT ARRESTED OR THE
+COPS CAME BUT</text><text start="358.133" dur="3.233">THEY WEREN&amp;#39;T REALLY THE COPS IT
+WAS LIKE THIS ADORABLE LITTLE
+CARTOON STRIPPER</text><text start="361.4" dur="3.2">SHE GAVE ME LIKE A -
+ADORABLE LITTLE CARTOON STRIPPER
+LAPDANCE</text><text start="364.633" dur="1.967">- MM HMM
+THAT WAS WEIRD</text><text start="366.633" dur="2.033">AND THEN THESE TWO GIRLS THEY
+PULLED ME INTO A ROOM FOR A
+THREESOME, AND...</text><text start="370.033" dur="1.2">N-NOTHING HAPPENED.</text><text start="371.4" dur="1">NOTHING HAPPENED.</text><text start="373.733" dur="1.333">ONE HAD THE HEAD OF A DONKEY AND
+THE OTHER ONE HAD THE</text><text start="375.1" dur="2.5">HEAD OF LIKE A - A SKULL I GUESS
+OF LIKE A -</text><text start="377.633" dur="3.4">A HEMSBACH OR A DEER OR AN
+ANTELOPE OR SOME SHIT</text><text start="381.066" dur="1.367">I DONT REALLY REMEMBER</text><text start="382.466" dur="2.3">AND THEN THIS LIKE BODY BUILDER
+LADY, SHE WAS WEARING UGGS</text><text start="385" dur="3.2">SHE THREW ME INTO THE POOL, I
+KINDA SNAPPED OUT OF IT AND LEFT</text><text start="388.233" dur="2.1">THE CAR THERE CAUSE I WAS WAY
+TOO FUCKED UP TO DRIVE</text><text start="390.366" dur="2.667">SO I JUST ---- HOME AND HERE I
+AM?</text><text start="393.066" dur="1.334">BAHATI: DID YOU GET THE
+MILK, THOUGH?</text><text start="394.433" dur="2.6">I GOT THE MILK.
+- AWESOME</text><text start="397.433" dur="2.767">I LOVE YOU
+- I LOVE YOU</text><text start="402.166" dur="2.134">GOOD NIGHT.
+- GOOD NIGHT BABY.</text></transcript>

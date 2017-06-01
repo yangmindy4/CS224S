@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?><transcript><text start="0.5" dur="3.879">♪ ♪</text><text start="4.379" dur="4.212">♪ ARE WE CRAZY ♪</text><text start="8.591" dur="5.005">♪ LIVING OUR LIVES
+THROUGH A LENS ♪</text><text start="13.596" dur="3.462">♪ TRAPPED IN OUR WHITE
+PICKET FENCE ♪</text><text start="17.058" dur="2.544">♪ LIKE ORNAMENTS ♪</text><text start="19.602" dur="2.711">♪ SO COMFORTABLE, WE’RE LIVING
+IN A BUBBLE, BUBBLE ♪</text><text start="22.313" dur="2.42">♪ SO COMFORTABLE, WE CANNOT
+SEE THE TROUBLE, TROUBLE ♪</text><text start="24.733" dur="3.294">♪ AREN’T YOU LONELY ♪</text><text start="28.57" dur="4.504">♪ UP THERE IN UTOPIA ♪</text><text start="33.408" dur="4.087">♪ WHERE NOTHING WILL
+EVER BE ENOUGH ♪</text><text start="37.495" dur="2.544">♪ HAPPILY NUMB ♪</text><text start="40.039" dur="2.753">♪ SO COMFORTABLE, WE’RE
+LIVING IN A BUBBLE, BUBBLE ♪</text><text start="42.792" dur="2.169">♪ SO COMFORTABLE, WE CANNOT
+SEE THE TROUBLE, TROUBLE ♪</text><text start="46.796" dur="5.172">♪ SO PUT
+YOUR ROSE-COLORED GLASSES ON ♪</text><text start="52.385" dur="2.586">♪ AND PARTY ON ♪</text><text start="55.805" dur="2.169">♪ TURN IT UP, IT’S
+YOUR FAVORITE SONG ♪</text><text start="57.974" dur="2.711">♪ DANCE, DANCE, DANCE
+TO THE DISTORTION ♪</text><text start="60.685" dur="2.294">♪ TURN IT UP,
+KEEP IT ON REPEAT ♪</text><text start="62.979" dur="3.128">♪ STUMBLING AROUND LIKE
+A WASTED ZOMBIE ♪</text><text start="66.107" dur="2.127">♪ YEAH,
+WE THINK WE’RE FREE ♪</text><text start="68.61" dur="1.71">♪ DRINK,
+THIS ONE’S ON ME ♪</text><text start="70.32" dur="3.17">♪ WE’RE ALL CHAINED
+TO THE RHYTHM ♪</text><text start="73.49" dur="2.46">♪ TO THE RHYTHM
+TO THE RHYTHM ♪</text><text start="75.95" dur="2.169">♪ TURN IT UP,
+IT’S YOUR FAVORITE SONG ♪</text><text start="78.119" dur="2.795">♪ DANCE, DANCE, DANCE
+TO THE DISTORTION ♪</text><text start="80.914" dur="2.377">♪ TURN IT UP,
+KEEP IT ON REPEAT ♪</text><text start="83.291" dur="2.794">♪ STUMBLING AROUND
+LIKE A WASTED ZOMBIE ♪</text><text start="86.085" dur="2.586">♪ YEAH,
+WE THINK WE’RE FREE ♪</text><text start="88.671" dur="1.794">♪ DRINK,
+THIS ONE’S ON ME ♪</text><text start="90.465" dur="2.794">♪ WE’RE ALL
+CHAINED TO THE RHYTHM ♪</text><text start="93.259" dur="2.878">♪ TO THE RHYTHM
+TO THE RHYTHM ♪</text><text start="97.639" dur="4.296">♪ ARE WE TONE DEAF ♪</text><text start="101.935" dur="4.713">♪ KEEP SWEEPING
+IT UNDER THE MAT ♪</text><text start="106.981" dur="3.838">♪ THOUGHT WE COULD
+DO BETTER THAN THAT ♪</text><text start="110.819" dur="3.044">♪ I HOPE WE CAN ♪</text><text start="113.863" dur="2.086">♪ TOO COMFORTABLE, WE’RE
+LIVING IN A BUBBLE, BUBBLE ♪</text><text start="115.949" dur="3.42">♪ SO COMFORTABLE, WE CANNOT
+SEE THE TROUBLE, TROUBLE ♪</text><text start="120.245" dur="4.754">♪ SO PUT
+YOUR ROSE-COLORED GLASSES ON ♪</text><text start="125.834" dur="3.044">♪ AND PARTY ON ♪</text><text start="128.878" dur="2.169">♪ TURN IT UP, IT’S
+YOUR FAVORITE SONG ♪</text><text start="131.047" dur="3.003">♪ DANCE, DANCE, DANCE
+TO THE DISTORTION ♪</text><text start="134.05" dur="2.211">♪ TURN IT UP,
+KEEP IT ON REPEAT ♪</text><text start="136.261" dur="3.336">♪ STUMBLING AROUND LIKE
+A WASTED ZOMBIE ♪</text><text start="139.597" dur="2.294">♪ YEAH,
+WE THINK WE’RE FREE ♪</text><text start="141.891" dur="1.627">♪ DRINK,
+THIS ONE’S ON ME ♪</text><text start="143.518" dur="3.003">♪ WE’RE ALL CHAINED
+TO THE RHYTHM ♪</text><text start="146.521" dur="2.669">♪ TO THE RHYTHM
+TO THE RHYTHM ♪</text><text start="149.19" dur="2.419">♪ TURN IT UP, IT’S
+YOUR FAVORITE SONG ♪</text><text start="151.609" dur="2.586">♪ DANCE, DANCE, DANCE
+TO THE DISTORTION ♪</text><text start="154.195" dur="2.419">♪ TURN IT UP,
+KEEP IT ON REPEAT ♪</text><text start="156.614" dur="3.254">♪ STUMBLING AROUND
+LIKE A WASTED ZOMBIE ♪</text><text start="159.868" dur="1.668">♪ YEAH,
+WE THINK WE’RE FREE ♪</text><text start="162.161" dur="1.627">♪ DRINK, THIS ONE’S ON ME ♪</text><text start="163.788" dur="2.961">♪ WE’RE ALL CHAINED
+TO THE RHYTHM ♪</text><text start="166.749" dur="3.295">♪ TO THE RHYTHM
+TO THE RHYTHM ♪</text><text start="170.044" dur="1.752">♪ IT IS MY DESIRE ♪</text><text start="171.796" dur="3.128">♪ BREAK DOWN THE WALLS
+TO CONNECT, INSPIRE ♪</text><text start="174.924" dur="1.919">♪ UP IN YOUR HIGH PLACE,
+LIARS ♪</text><text start="176.843" dur="2.419">♪ TIME IS TICKING
+FOR THE EMPIRE ♪</text><text start="179.262" dur="2.169">♪ THE TRUTH THEY
+FEED IS FEEBLE ♪</text><text start="181.431" dur="2.627">♪ AS SO MANY TIMES BEFORE ♪</text><text start="184.058" dur="2.711">♪ THEY GREED
+OVER THE PEOPLE ♪</text><text start="186.769" dur="2.711">♪ THEY STUMBLING AND FUMBLING
+AND WE ABOUT TO RIOT ♪</text><text start="189.48" dur="2.503">♪ THEY WOKE UP,
+THEY WOKE UP THE LIONS ♪</text><text start="191.983" dur="2.628">♪ TURN IT UP, IT’S YOUR
+FAVORITE SONG ♪</text><text start="194.611" dur="2.585">♪ DANCE, DANCE, DANCE
+TO THE DISTORTION ♪</text><text start="197.196" dur="2.211">♪ TURN IT UP,
+KEEP IT ON REPEAT ♪</text><text start="199.407" dur="3.17">♪ STUMBLING AROUND
+LIKE A WASTED ZOMBIE ♪</text><text start="202.577" dur="1.585">♪ YEAH,
+WE THINK WE’RE FREE ♪</text><text start="205.163" dur="2.002">♪ DRINK,
+THIS ONE’S ON ME ♪</text><text start="207.165" dur="2.502">♪ WE’RE ALL CHAINED
+TO THE RHYTHM ♪</text><text start="209.667" dur="2.92">♪ TO THE RHYTHM
+TO THE RHYTHM ♪</text><text start="212.587" dur="3.879">♪ IT GOES ON AND ON
+AND ON AND ON ♪</text><text start="216.466" dur="2.794">♪ IT GOES (ON AND ON)
+TURN IT UP (ON AND ON) ♪</text><text start="219.26" dur="3.045">♪ IT GOES ON AND ON
+AND ON AND ON ♪</text><text start="222.305" dur="4.546">♪ IT GOES (ON AND ON)
+TURN IT UP (ON AND ON) ♪</text><text start="226.851" dur="6.173">♪ IT GOES, CAOUSE WE&amp;#39;RE ALL
+CHAINED TO THE RHYTHN ♪</text><text start="233.024" dur="2.002">♪ ♪</text></transcript>

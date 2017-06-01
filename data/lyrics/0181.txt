@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?><transcript><text start="9" dur="2.266">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ That lipstick
+on your collar ♪&lt;/i&gt;&lt;/font&gt;</text><text start="11.266" dur="2.5">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ Well it ain&amp;#39;t
+my shade of pink♪&lt;/i&gt;&lt;/font&gt;</text><text start="13.766" dur="2.434">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ And I can tell by the
+smell of that perfume ♪&lt;/i&gt;&lt;/font&gt;</text><text start="16.2" dur="2.533">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ It&amp;#39;s like forty
+dollars too cheap ♪&lt;/i&gt;&lt;/font&gt;</text><text start="18.733" dur="2.267">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ And there&amp;#39;s a little wine
+stain on the pocket ♪&lt;/i&gt;&lt;/font&gt;</text><text start="21" dur="2.466">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ Of your white
+cotton thread ♪&lt;/i&gt;&lt;/font&gt;</text><text start="23.466" dur="2.067">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ Well you drink
+beer and whiskey ♪&lt;/i&gt;&lt;/font&gt;</text><text start="25.533" dur="3.033">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ Boy and you know I
+don&amp;#39;t drink red ♪&lt;/i&gt;&lt;/font&gt;</text><text start="28.566" dur="1.934">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ Found it over
+in the corner ♪&lt;/i&gt;&lt;/font&gt;</text><text start="30.5" dur="2.766">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ Wadded up on
+the bedroom floor ♪&lt;/i&gt;&lt;/font&gt;</text><text start="33.266" dur="2.1">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ You shoulda hid
+it in a closet ♪&lt;/i&gt;&lt;/font&gt;</text><text start="35.366" dur="2.834">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ You shoulda burned it,
+you shoulda lost it, now ♪&lt;/i&gt;&lt;/font&gt;</text><text start="38.2" dur="4.4">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ I&amp;#39;ma have to hang you
+out to dry, dry, dry ♪&lt;/i&gt;&lt;/font&gt;</text><text start="42.6" dur="4.833">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ Clothespin all your secrets
+to the line, line, line ♪&lt;/i&gt;&lt;/font&gt;</text><text start="47.433" dur="7.133">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ Leave &amp;#39;em blowing in the
+wind and say goodbye to you ♪&lt;/i&gt;&lt;/font&gt;</text><text start="56.2" dur="2.566">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ All those
+midnights sneaking in ♪&lt;/i&gt;&lt;/font&gt;</text><text start="58.766" dur="3.3">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ I&amp;#39;m late again,
+oh I&amp;#39;m so sorry ♪&lt;/i&gt;&lt;/font&gt;</text><text start="62.066" dur="1.634">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ All the Ajax in the world ♪&lt;/i&gt;&lt;/font&gt;</text><text start="63.7" dur="4.333">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ ain&amp;#39;t gonna clean your
+dirty laundry ♪&lt;/i&gt;&lt;/font&gt;</text><text start="71.533" dur="2.033">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ If the neighbors
+get to asking ♪&lt;/i&gt;&lt;/font&gt;</text><text start="73.566" dur="2.634">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ I won&amp;#39;t cover nothing up ♪&lt;/i&gt;&lt;/font&gt;</text><text start="76.2" dur="2.233">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ I&amp;#39;ll tell them
+every little detail ♪&lt;/i&gt;&lt;/font&gt;</text><text start="78.433" dur="2.667">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ How you drug me
+through the mud ♪&lt;/i&gt;&lt;/font&gt;</text><text start="81.1" dur="2.5">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ I&amp;#39;m gonna string up
+your old button down ♪&lt;/i&gt;&lt;/font&gt;</text><text start="83.6" dur="2.533">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪And slide it on the porch♪&lt;/i&gt;&lt;/font&gt;</text><text start="86.133" dur="2.167">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ Just in case
+you get the nerve ♪&lt;/i&gt;&lt;/font&gt;</text><text start="88.3" dur="5">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ To come knocking
+on my door, yeah ♪&lt;/i&gt;&lt;/font&gt;</text><text start="93.3" dur="4.366">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ I&amp;#39;ma have to hang
+you out to dry, dry, dry ♪&lt;/i&gt;&lt;/font&gt;</text><text start="97.666" dur="5.5">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ Clothespin all your secrets
+to the line, line, line ♪&lt;/i&gt;&lt;/font&gt;</text><text start="103.166" dur="6.867">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ Leave &amp;#39;em blowing in the
+wind and say goodbye to you ♪&lt;/i&gt;&lt;/font&gt;</text><text start="111.4" dur="2.666">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ All those
+midnights sneaking in ♪&lt;/i&gt;&lt;/font&gt;</text><text start="114.066" dur="3.034">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ I&amp;#39;m late again,
+oh I&amp;#39;m so sorry ♪&lt;/i&gt;&lt;/font&gt;</text><text start="117.1" dur="1.633">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ All the Ajax in
+the world ♪&lt;/i&gt;&lt;/font&gt;</text><text start="118.733" dur="3.767">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ ain&amp;#39;t gonna
+clean your dirty laundry ♪&lt;/i&gt;&lt;/font&gt;</text><text start="124.666" dur="12.334">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ Oh, oh, oh, oh ♪&lt;/i&gt;&lt;/font&gt;</text><text start="137" dur="1.633">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ found it
+over in the corner ♪&lt;/i&gt;&lt;/font&gt;</text><text start="138.633" dur="2.633">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ Wadded up on the
+bedroom floor ♪&lt;/i&gt;&lt;/font&gt;</text><text start="141.266" dur="2">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ You shoulda
+hid it in a closet ♪&lt;/i&gt;&lt;/font&gt;</text><text start="143.266" dur="3.034">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ You shoulda burned it,
+you shoulda lost it, now ♪&lt;/i&gt;&lt;/font&gt;</text><text start="146.3" dur="4.066">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ I&amp;#39;ma have to hang you out to
+dry, dry, dry ♪&lt;/i&gt;&lt;/font&gt;</text><text start="150.366" dur="4.767">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ Clothespin all your secrets
+to the line, line, line ♪&lt;/i&gt;&lt;/font&gt;</text><text start="155.133" dur="8.267">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ Leave &amp;#39;em blowing in the
+wind and say goodbye to you ♪&lt;/i&gt;&lt;/font&gt;</text><text start="163.4" dur="3.1">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ All those midnights
+sneaking in ♪&lt;/i&gt;&lt;/font&gt;</text><text start="166.5" dur="3.033">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ I&amp;#39;m late again, oh
+I&amp;#39;m so sorry ♪&lt;/i&gt;&lt;/font&gt;</text><text start="169.533" dur="2.167">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ All the Ajax in
+the world ♪&lt;/i&gt;&lt;/font&gt;</text><text start="171.7" dur="3.566">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ ain&amp;#39;t gonna
+clean your dirty laundry ♪&lt;/i&gt;&lt;/font&gt;</text><text start="178.6" dur="4.866">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ out to dry ♪&lt;/i&gt;&lt;/font&gt;</text><text start="183.466" dur="3.867">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ to the line ♪&lt;/i&gt;&lt;/font&gt;</text><text start="187.333" dur="7.367">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ oh, oh ♪&lt;/i&gt;&lt;/font&gt;</text></transcript>

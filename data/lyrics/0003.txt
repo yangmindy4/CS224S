@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?><transcript><text start="1.366" dur="2.2">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪♪♪&lt;/i&gt;&lt;/font&gt;</text><text start="1.366" dur="2.2">[bubbling]</text><text start="10.2" dur="2">[thunder rumbles]</text><text start="13.6" dur="2">&amp;quot;Wicked ways beneath the skin.</text><text start="15.633" dur="4.867">Let all who taste it
+now join in.&amp;quot;</text><text start="20.533" dur="1">[laughing]</text><text start="27.6" dur="1.866">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪♪♪ [drum]&lt;/i&gt;&lt;/font&gt;</text><text start="35.6" dur="1.966">♪ We got all the ways to be ♪</text><text start="37.6" dur="1.866">♪ W-I-C-K-E-D ♪</text><text start="39.5" dur="2.2">♪ We got all the ways to be ♪</text><text start="41.733" dur="1.967">♪ W-I-C-K-E-D ♪</text><text start="43.733" dur="2">Come on!</text><text start="43.733" dur="2">♪ Hey! Hey! Hey! ♪</text><text start="45.766" dur="2.934">♪ Hey! Hey! Hey!
+Hey! Hey! Hey! ♪</text><text start="48.733" dur="3.867">♪ Hey! Hey! Hey!
+Hey! Hey! Hey! Hey! ♪</text><text start="52.633" dur="1.433">♪ Crashing the party ♪</text><text start="54.1" dur="2.666">♪ Guess they lost
+my invitation ♪</text><text start="57" dur="1.233">♪ Friendly reminder ♪</text><text start="58.266" dur="2.8">♪ Got my own
+kind of persuasion ♪</text><text start="61.1" dur="4.366">♪ Looks like this place
+could use a bit
+of misbehavior ♪</text><text start="65.5" dur="4.066">♪ Happily ever after
+with a little flavor ♪</text><text start="69.6" dur="1.6">♪ Bad to the bone ♪</text><text start="71.233" dur="2.467">♪ With even worse intentions ♪</text><text start="73.733" dur="1.733">♪ We&amp;#39;re gonna steal the show ♪</text><text start="75.5" dur="2.666">♪ And leave &amp;#39;em
+all defenseless ♪</text><text start="78.2" dur="4.233">♪ A fairytale life can be
+oh, so overrated ♪</text><text start="82.466" dur="3.7">♪ So raise your voices
+and let&amp;#39;s get it activated! ♪</text><text start="86.2" dur="4">[all]
+♪ Long live havin&amp;#39; some fun ♪</text><text start="90.233" dur="2.267">♪ We take what we want ♪</text><text start="92.533" dur="2.5">♪ There&amp;#39;s so many ways
+to be wicked ♪</text><text start="95.066" dur="3.467">♪ With us evil lives on ♪</text><text start="98.566" dur="2.467">♪ The right side of wrong ♪</text><text start="101.066" dur="2.1">♪ There&amp;#39;s so many ways
+to be wicked ♪</text><text start="103.2" dur="2.4">♪ Apple apple, dip dip ♪</text><text start="105.633" dur="1.933">♪ Wanna try it?
+Tick Tick ♪</text><text start="107.6" dur="1.966">♪ Take a bite,
+come on be bold ♪</text><text start="109.6" dur="2.166">♪ Change the way
+the story&amp;#39;s told ♪</text><text start="112" dur="3.7">♪ This time the dark
+is finally getting
+your attention ♪</text><text start="115.733" dur="2">♪ We&amp;#39;re wicked by the book ♪</text><text start="117.766" dur="2.767">♪ And class is back
+in session! ♪</text><text start="120.566" dur="1.467">♪ You like it, steal it ♪</text><text start="122.066" dur="2.4">♪ Gotta beat &amp;#39;em
+to the treasure ♪</text><text start="124.5" dur="1.933">♪ A right of passage ♪</text><text start="126.466" dur="2.2">[all]
+♪ Bad just doesn&amp;#39;t get
+much better! ♪</text><text start="128.7" dur="3.933">♪ Long live havin some fun ♪</text><text start="132.666" dur="2.034">♪ We take what we want ♪</text><text start="134.733" dur="2.8">♪ There&amp;#39;s so many ways
+to be wicked ♪</text><text start="137.566" dur="1.934">♪ Mother ♪</text><text start="139.533" dur="2.033">♪ Always knows best ♪</text><text start="141.6" dur="1.933">♪ Show her! ♪</text><text start="143.566" dur="2">♪ Pass every test ♪</text><text start="145.6" dur="4.166">♪ Hear her voice in my head ♪</text><text start="150" dur="2.166">♪ Evil is the only ♪</text><text start="152.2" dur="6.333">[together]
+♪ Real way to win ♪</text><text start="158.566" dur="2.134">♪ We got all the ways to be ♪</text><text start="160.733" dur="2.4">♪ Huh! Huh! Huh! Huh! ♪</text><text start="163.166" dur="2">♪ W-I-C-K-E-D ♪</text><text start="165.2" dur="2">Let&amp;#39;s go!</text><text start="167.233" dur="2.2">♪ We got all the ways to be ♪</text><text start="169.466" dur="1.534">♪ Huh! Huh! Huh! Huh! ♪</text><text start="171.033" dur="2.167">♪ W-I-C-K-E-D ♪</text><text start="173.233" dur="3.333">♪ Yeah! ♪</text><text start="176.6" dur="3.133">♪ Long live havin some fun ♪</text><text start="179.766" dur="1.967">♪ We take what we want ♪</text><text start="181.766" dur="1.934">♪ There&amp;#39;s so many ways
+to be wicked ♪</text><text start="183.733" dur="3.967">♪ With us evil lives on ♪</text><text start="187.733" dur="2.267">♪ The right side of wrong ♪</text><text start="190.033" dur="2.5">♪ There&amp;#39;s so many ways
+to be wicked ♪</text><text start="196.6" dur="2.166">♪ We got all the ways to be ♪</text><text start="199" dur="2.1">♪ W-I-C-K-E-D ♪</text><text start="201.133" dur="2.3">♪ We got all the ways to be ♪</text><text start="201.133" dur="2.3">♪ Yeah ♪</text><text start="203.466" dur="1.734">♪ W-I-C-K-E-D ♪</text><text start="205.233" dur="2.2">♪ We got all the ways to be ♪</text><text start="207.466" dur="2.767">♪ So many ways to be wicked ♪</text><text start="210.266" dur="7.134">♪ ♪</text></transcript>

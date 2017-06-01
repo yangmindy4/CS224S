@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?><transcript><text start="1.8" dur="3.8">&amp;quot;OH! OH! THREE!</text><text start="5.7" dur="2.466">THAT WAS NOT LUCK,
+THAT WAS SKILL</text><text start="8.266" dur="2.4">YO I&amp;#39;M KILLING YOU&amp;quot;</text><text start="10.766" dur="3.2">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;RING TONE&lt;/i&gt;&lt;/font&gt;</text><text start="14.066" dur="1.934">&amp;quot;YO USHER&amp;quot;</text><text start="16.1" dur="1.166">&amp;quot;JB WHAT&amp;#39;S UP MAN?&amp;quot;</text><text start="17.366" dur="1.934">&amp;quot;JUST PLAYING VIDEO GAMES
+WITH BRIAN&amp;quot;</text><text start="19.433" dur="1.967">&amp;quot;YOU THINK YOU CAN HOLD THE
+HOUSE DOWN TILL I GET BACK?&amp;quot;</text><text start="21.5" dur="1.3">&amp;quot;YEAH I CAN DO THAT&amp;quot;</text><text start="22.9" dur="1.433">&amp;quot;ALRIGHT! MY MAN.&amp;quot;</text><text start="24.433" dur="1.4">&amp;quot;YO!&amp;quot;</text><text start="26.9" dur="8.033">♪ EH, EH, EH, EH, EH,
+EH, EH, EH ME PLUS YOU, ♪</text><text start="35.033" dur="3.233">♪ I&amp;#39;M A TELL YOU ONE
+TIME ME PLUS YOU, ♪</text><text start="38.366" dur="3.134">♪ I&amp;#39;M A TELL YOU ONE
+TIME ME PLUS YOU, ♪</text><text start="41.6" dur="1.066">♪ I&amp;#39;M A TELL YOU ONE TIME
+I&amp;#39;M A TELL YOU ONE TIME, ♪</text><text start="42.766" dur="3.434">♪ ONE TIME, ONE TIME ♪</text><text start="46.3" dur="2.466">♪ WHEN I MET YOU
+GIRL MY HEART WENT KNOCK, ♪</text><text start="48.866" dur="3.567">♪ KNOCK NOW THEM BUTTERFLIES
+IN MY STOMACH WON&amp;#39;T STOP, ♪</text><text start="52.566" dur="2.367">♪ STOP AND EVEN THOUGH
+IT&amp;#39;S A STRUGGLE, ♪</text><text start="55.033" dur="2.367">♪ LOVE IS ALL WE GOT
+SO WE GON&amp;#39; KEEP, ♪</text><text start="57.5" dur="2.1">♪ KEEP CLIMBING TO
+THE MOUNTAIN TOP ♪</text><text start="59.733" dur="6.833">♪ YOUR WORLD IS MY WORLD
+AND MY FIGHT IS YOUR FIGHT ♪</text><text start="66.7" dur="4.7">♪ MY BREATH IS YOUR BREATH
+WHEN YOU&amp;#39;RE HURT, ♪</text><text start="71.5" dur="1.1">♪ I&amp;#39;M NOT RIGHT ♪</text><text start="72.9" dur="2.666">♪ GIRL YOU&amp;#39;RE MY ONE
+LOVE, MY ONE HEART, ♪</text><text start="75.666" dur="4.2">♪ MY ONE LIFE FOR SURE LET ME
+TELL YOU ONE TIME GIRL I ♪</text><text start="80" dur="2.2">♪ LOVE, GIRL, I LOVE YOU I&amp;#39;M
+A TELL YOU ONE TIME GIRL I ♪</text><text start="82.3" dur="4.333">♪ LOVE, GIRL I LOVE YOU AND
+I&amp;#39;M GON&amp;#39; BE YOUR ONE GUY ♪</text><text start="86.766" dur="4.467">♪ YOU&amp;#39;LL MY NUMBER ONE GIRL
+ALWAYS MAKING TIME FOR YOU ♪</text><text start="91.333" dur="3.333">♪ I&amp;#39;M A TELL YOU ONE
+TIME GIRL I LOVE, ♪</text><text start="94.766" dur="2.7">♪ GIRL I LOVE YOU I&amp;#39;M A TELL
+YOU ONE TIME GIRL I LOVE, ♪</text><text start="97.533" dur="1.667">♪ GIRL, I LOVE YOU, ♪</text><text start="99.3" dur="3">♪ YOUR LOVES SO DEEP
+YOU KNOW THAT IT HUMBLES ME ♪</text><text start="102.4" dur="3.1">♪ YOU&amp;#39;RE BY MY SIDE THEM
+TROUBLES THEM NOT TROUBLE ME ♪</text><text start="105.6" dur="4.2">♪ MANY HAVE CALLED BUT THE
+CHOSEN IS YOU AND WHATEVER ♪</text><text start="109.9" dur="2.9">♪ YOU WANT SHAWTY,
+I&amp;#39;LL GIVE IT TO YOU ♪</text><text start="112.9" dur="6.066">♪ YOUR WORLD IS MY WORLD
+AND MY FIGHT IS YOUR FIGHT ♪</text><text start="119.1" dur="4.633">♪ MY BREATH IS YOUR BREATH
+WHEN YOU&amp;#39;RE HURT, ♪</text><text start="123.866" dur="2.034">♪ I&amp;#39;M NOT RIGHT ♪</text><text start="126" dur="2.033">♪ GIRL YOU&amp;#39;RE MY ONE
+LOVE, MY ONE HEART, ♪</text><text start="128.133" dur="4.533">♪ MY ONE LIFE FOR SURE LET ME
+TELL YOU ONE TIME GIRL I ♪</text><text start="132.766" dur="2.967">♪ LOVE, GIRL, I LOVE YOU I&amp;#39;M
+A TELL YOU ONE TIME GIRL I ♪</text><text start="135.833" dur="3.867">♪ LOVE, GIRL I LOVE YOU AND
+I&amp;#39;M GON&amp;#39; BE YOUR ONE GUY ♪</text><text start="139.766" dur="3.934">♪ YOU&amp;#39;LL MY NUMBER ONE GIRL
+ALWAYS MAKING TIME FOR YOU ♪</text><text start="143.833" dur="2.4">♪ I&amp;#39;M A TELL YOU ONE
+TIME GIRL I LOVE, ♪</text><text start="146.333" dur="2.833">♪ GIRL I LOVE YOU I&amp;#39;M A TELL
+YOU ONE TIME GIRL I LOVE, ♪</text><text start="149.3" dur="2">♪ GIRL, I LOVE YOU, ♪</text><text start="151.433" dur="1.433">♪ THAT SHAWTY
+RIGHT THERE, ♪</text><text start="152.966" dur="4.9">♪ SHE&amp;#39;S GOT EVERYTHING I NEED
+AND I&amp;#39;M A TELL HER ONE TIME, ♪</text><text start="158" dur="5.233">♪ ONE TIME, ONE TIME I GIVE
+YOU EVERYTHING YOU NEED DOWN ♪</text><text start="163.366" dur="4.3">♪ TO MY LAST DIME
+SHE MAKES ME HAPPY, ♪</text><text start="167.766" dur="8.234">♪ I KNOW WHERE I&amp;#39;LL BE RIGHT
+BY HER SIDE CAUSE SHE IS THE ♪</text><text start="176.133" dur="1.167">♪ ONE FOR ME ♪</text><text start="177.4" dur="3.2">♪ GIRL YOU&amp;#39;RE MY ONE
+LOVE, MY ONE HEART, ♪</text><text start="180.7" dur="4.566">♪ MY ONE LIFE FOR SURE LET ME
+TELL YOU ONE TIME GIRL I ♪</text><text start="185.366" dur="3.634">♪ LOVE, GIRL, I LOVE YOU I&amp;#39;M
+A TELL YOU ONE TIME GIRL I ♪</text><text start="189.1" dur="3.066">♪ LOVE, GIRL I LOVE YOU AND
+I&amp;#39;M GON&amp;#39; BE YOUR ONE GUY ♪</text><text start="192.266" dur="3.9">♪ YOU&amp;#39;LL MY NUMBER ONE GIRL
+ALWAYS MAKING TIME FOR YOU ♪</text><text start="196.266" dur="2.4">♪ I&amp;#39;M A TELL YOU ONE
+TIME GIRL I LOVE, ♪</text><text start="198.766" dur="3.167">♪ GIRL I LOVE YOU I&amp;#39;M A TELL
+YOU ONE TIME GIRL I LOVE, ♪</text><text start="202.033" dur="1.733">♪ GIRL, I LOVE YOU, ♪</text><text start="203.866" dur="13.8">♪ ME PLUS YOU I&amp;#39;M A TELL
+YOU ONE TIME ...(REPEATED) ♪</text><text start="217.733" dur="19.5">♪ ♪</text></transcript>

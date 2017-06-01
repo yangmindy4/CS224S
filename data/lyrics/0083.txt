@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?><transcript><text start="1" dur="16.166">♪ ♪</text><text start="17.2" dur="4.2">♪ AND AFTER ALL&amp;#39;S
+BEEN SAID AND DONE ♪</text><text start="21.433" dur="5.033">♪ WHO SAID IT BEST
+WERE YOU THE ONE? ♪</text><text start="26.5" dur="4.633">♪ LET&amp;#39;S JUST FORGET
+LEAVE IT BEHIND ♪</text><text start="31.166" dur="2">♪ AND CARRY ON ♪</text><text start="35.566" dur="4.2">♪ IF YOU SHOULD FIND
+THE TIME TO SPEAK ♪</text><text start="40" dur="4.1">♪ THEN SPEAK TO ME
+I&amp;#39;D NEVER KEEP ♪</text><text start="44.133" dur="4.2">♪ YOU FROM YOUR FINAL DESTINY ♪</text><text start="48.366" dur="1.967">♪ SO CARRY ON ♪</text><text start="53.7" dur="4.6">♪ INTO THE QUIET I AM BOUND ♪</text><text start="58.333" dur="4.233">♪ WHAT YOU HAVE LOST I&amp;#39;VE
+NEVER FOUND ♪</text><text start="62.6" dur="4.166">♪ I LOST MY NERVE YET
+PEACE SURROUNDS ♪</text><text start="67" dur="2.1">♪ SO CARRY ON ♪</text><text start="72.633" dur="34.867">♪ ♪</text><text start="107.533" dur="4.567">♪ INTO THE QUIET I AM BOUND ♪</text><text start="112.133" dur="4.3">♪ WHAT YOU HAVE LOST
+I&amp;#39;VE NEVER FOUND ♪</text><text start="116.466" dur="4.1">♪ I LOST MY NERVE YET
+PEACE SURROUNDS ♪</text><text start="120.6" dur="2.4">♪ SO CARRY ON ♪</text><text start="125.266" dur="4.267">♪ AND NOW THAT ALL&amp;#39;S
+BEEN SAID AND DONE ♪</text><text start="129.566" dur="5.1">♪ WHO SAID IT BEST
+WERE YOU THE ONE? ♪</text><text start="134.7" dur="4.433">♪ LET&amp;#39;S JUST FORGET
+LEAVE IT BEHIND ♪</text><text start="139.166" dur="2.267">♪ AND CARRY ON ♪</text><text start="143.533" dur="4.667">♪ LET&amp;#39;S JUST FORGET
+LEAVE IT BEHIND ♪</text><text start="148.233" dur="3.4">♪ AND CARRY ON ♪</text><text start="151.666" dur="6.1">♪ ♪</text></transcript>

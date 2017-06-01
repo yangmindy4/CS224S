@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?><transcript><text start="1.033" dur="1.967">♪♪♪</text><text start="3.033" dur="0.667">YOUNG MONEY</text><text start="3.733" dur="1.733">♪♪♪</text><text start="5.5" dur="4">KISSING STRANGERS</text><text start="9.533" dur="1.533">♪♪♪</text><text start="11.1" dur="1.633">♪ AYE, ♪</text><text start="12.766" dur="1.934">♪ I&amp;#39;M JUST
+TRYING TO MAKE MY WAY ♪</text><text start="14.733" dur="1.8">♪ ON THROUGH THE
+CONCRETE JUNGLE ♪</text><text start="16.566" dur="2">♪ WHO WALKS WITH ME? ♪</text><text start="19.033" dur="1.967">♪ AYE, ♪</text><text start="21.033" dur="1.967">♪ OH YEAH, TRYNA
+FIND CONNECTION ♪</text><text start="23.033" dur="3">♪ IN TWO-THOUSAND
+SOMETHING AIN&amp;#39;T EASY ♪</text><text start="26.066" dur="1.934">♪ WOOHOO, ♪</text><text start="28.033" dur="1.967">♪ CAN&amp;#39;T QUIT, ♪</text><text start="30.033" dur="2.533">♪ TAKE SIPS ♪</text><text start="33" dur="1.566">♪ WANNA TASTE YOU ♪</text><text start="34.6" dur="3.166">♪ OOH, MAKE WISH, ♪</text><text start="38" dur="2.566">♪ USE LIPS ♪</text><text start="41.066" dur="1.5">♪ KISSING STRANGERS ♪</text><text start="43.2" dur="1.833">♪ NA NA NA NA NA NA NA NA ♪</text><text start="45.066" dur="2.1">♪ TIL I FIND
+SOMEONE I LOVE ♪</text><text start="47.2" dur="1.866">♪ NA NA NA NA NA NA NA NA ♪</text><text start="49.1" dur="1.533">♪ KISSING STRANGERS ♪</text><text start="51.2" dur="1.833">♪ NA NA NA NA NA NA NA NA ♪</text><text start="53.066" dur="2.167">♪ TIL I FIND
+SOMEONE I TRUST ♪</text><text start="55.266" dur="1.734">♪ NA NA NA NA NA NA NA NA ♪</text><text start="57.033" dur="1.533">♪ KISSING STRANGERS ♪</text><text start="58.766" dur="1.9">♪ OPEN HEART, OPEN MIND ♪</text><text start="60.7" dur="1.966">♪ NEVER KNOW
+WHO YOU&amp;#39;LL FIND ♪</text><text start="62.7" dur="2.3">♪ OPEN HEART,
+CLOSE YOUR EYES ♪</text><text start="65.033" dur="1.5">♪ KISSING STRANGERS ♪</text><text start="67.166" dur="1.567">♪ NA NA NA NA NA NA NA NA ♪</text><text start="68.766" dur="2.434">♪ TIL I FIND
+SOMEONE I LOVE ♪</text><text start="71.233" dur="1.8">♪ NA NA NA NA NA NA NA NA ♪</text><text start="73.066" dur="1.467">♪ KISSING STRANGERS ♪</text><text start="75" dur="1.733">♪ AYE, ♪</text><text start="76.766" dur="3.734">♪ ALL MISINFORMATION
+OPEN TO INTERPRETATION ♪</text><text start="80.533" dur="2.033">♪ JUST KEEP SEARCHING ♪</text><text start="83.033" dur="2">♪ ME ♪</text><text start="85.066" dur="3.434">♪ HYPERVENTILATING,
+BLOCKING UP MY CIRCULATION ♪</text><text start="88.533" dur="1.5">♪ NO WAITING ♪</text><text start="90.066" dur="1.934">♪ WOOHOO, ♪</text><text start="92.033" dur="1.967">♪ CAN&amp;#39;T QUIT, ♪</text><text start="94.033" dur="2.5">♪ TAKE SIPS ♪</text><text start="97.033" dur="1.5">♪ WANNA TASTE YOU ♪</text><text start="98.566" dur="3.434">♪ OOH, MAKE WISH, ♪</text><text start="102.033" dur="2.5">♪ USE LIPS ♪</text><text start="105" dur="1.533">♪ KISSING STRANGERS ♪</text><text start="107.2" dur="1.8">♪ NA NA NA NA NA NA NA NA ♪</text><text start="109.033" dur="2.3">♪ TIL I FIND
+SOMEONE I LOVE ♪</text><text start="111.366" dur="1.634">♪ NA NA NA NA NA NA NA NA ♪</text><text start="113.033" dur="1.5">♪ KISSING STRANGERS ♪</text><text start="115.233" dur="1.533">♪ NA NA NA NA NA NA NA NA ♪</text><text start="117" dur="2.233">♪ TIL I FIND
+SOMEONE I TRUST ♪</text><text start="119.266" dur="1.767">♪ NA NA NA NA NA NA NA NA ♪</text><text start="121.066" dur="1.6">♪ KISSING STRANGERS ♪</text><text start="122.7" dur="2">♪ OPEN HEART, OPEN MIND ♪</text><text start="124.733" dur="1.933">♪ NEVER KNOW
+WHO YOU&amp;#39;LL FIND ♪</text><text start="126.7" dur="2.433">♪ OPEN HEART,
+CLOSE YOUR EYES ♪</text><text start="129.166" dur="1.4">♪ KISSING STRANGERS ♪</text><text start="131.166" dur="1.834">♪ NA NA NA NA NA NA NA NA ♪</text><text start="133.033" dur="2.233">♪ TIL I FIND
+SOMEONE I LOVE ♪</text><text start="135.3" dur="1.733">♪ NA NA NA NA NA NA NA NA ♪</text><text start="137.066" dur="1.567">♪ KISSING STRANGERS ♪</text><text start="138.733" dur="1.533">♪ I GOT A BOY
+THAT I KINDA LIKE ♪</text><text start="140.3" dur="1.9">♪ THIS IS A KISS-KISS,
+TONGUE HIM DOWN KIND OF NIGHT ♪</text><text start="142.233" dur="1.967">♪ HE GOT THAT MMM, MMM,
+HARD, GOT THAT CHINA WHITE ♪</text><text start="144.233" dur="1.9">♪ HE GOT THAT BOMB, I
+THINK I&amp;#39;MMA CALL HIM DYNAMITE ♪</text><text start="146.166" dur="1.9">♪ I GOTTA LOTTA SONS, I COULD
+SHOW YOU ALL THE SONOGRAMS ♪</text><text start="148.1" dur="1.933">♪ ME? I&amp;#39;M JEM, AND THESE
+BITCHES IS THE HOLOGRAMS ♪</text><text start="150.066" dur="1.934">♪ ME? I WIN, AND
+THESE BITCHES JUST LOSE ♪</text><text start="152.033" dur="2">♪ THEY SHIP SINK, BUT
+MY SHIP, IT JUST CRUISE ♪</text><text start="154.066" dur="2.234">♪ ANYWAY, I&amp;#39;M BACK, WITH MY
+BABY GAT, GIMME PIGGY BACK ♪</text><text start="156.333" dur="1.967">♪ DRIP DRIP, WHERE THAT
+KITTY CAT, PUT IT IN HIS LAP ♪</text><text start="158.333" dur="2.2">♪ SIP SIP ON THE TIP
+TIP, LICK ON HIS LIP-LIP ♪</text><text start="160.566" dur="2.134">♪ I THINK HE&amp;#39;S TRYNA HIT
+YOUNG NICK LIKE THE QUICK PIC ♪</text><text start="163.133" dur="2.133">♪ NA NA NA NA NA NA NA NA ♪</text><text start="167.266" dur="1.5">♪ KISSING STRANGERS ♪</text><text start="169.366" dur="1.867">♪ NA NA NA NA NA NA NA NA ♪</text><text start="171.266" dur="2.1">♪ TIL I FIND
+SOMEONE I LOVE ♪</text><text start="173.4" dur="1.833">♪ NA NA NA NA NA NA NA NA ♪</text><text start="175.266" dur="1.5">♪ KISSING STRANGERS ♪</text><text start="177.366" dur="1.834">♪ NA NA NA NA NA NA NA NA ♪</text><text start="179.233" dur="2.1">♪ TIL I FIND
+SOMEONE I TRUST ♪</text><text start="181.366" dur="1.8">♪ NA NA NA NA NA NA NA NA ♪</text><text start="183.2" dur="1.866">♪ KISSING STRANGERS ♪</text><text start="185.1" dur="2.066">♪ OPEN HEART, OPEN MIND ♪</text><text start="187.2" dur="1.833">♪ NEVER KNOW
+WHO YOU&amp;#39;LL FIND ♪</text><text start="189.066" dur="2.167">♪ OPEN HEART,
+CLOSE YOUR EYES ♪</text><text start="191.266" dur="1.467">♪ KISSING STRANGERS ♪</text><text start="193.366" dur="1.867">♪ NA NA NA NA NA NA NA NA ♪</text><text start="195.266" dur="2.034">♪ TIL I FIND
+SOMEONE I LOVE ♪</text><text start="197.333" dur="1.867">♪ NA NA NA NA NA NA NA NA ♪</text><text start="199.233" dur="1.767">♪ KISSING STRANGERS ♪</text><text start="216.266" dur="77.167">♪♪♪</text></transcript>

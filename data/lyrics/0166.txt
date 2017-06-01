@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?><transcript><text start="0.4" dur="15.9">♪♪♪</text><text start="16.333" dur="5.1">♪ ALMOST HEAVEN,
+WEST VIRGINIA ♪</text><text start="21.466" dur="5.234">♪ BLUE RIDGE MOUNTAINS,
+SHENANDOAH RIVER ♪</text><text start="26.733" dur="4.7">♪ LIFE IS OLD THERE,
+OLDER THAN THE TREES ♪</text><text start="31.466" dur="2.634">♪ YOUNGER THAN
+THE MOUNTAINS ♪</text><text start="34.133" dur="2.133">♪ GROWIN&amp;#39; LIKE
+A BREEZE ♪</text><text start="36.3" dur="5.066">♪ COUNTRY ROADS,
+TAKE ME HOME ♪</text><text start="41.4" dur="2.666">♪ TO THE PLACE ♪</text><text start="44.1" dur="2.566">♪ I BELONG ♪</text><text start="46.7" dur="2.7">♪ WEST VIRGINIA, ♪</text><text start="49.433" dur="2.667">♪ MOUNTAIN MOMMA ♪</text><text start="52.133" dur="2.633">♪ TAKE ME HOME, ♪</text><text start="55" dur="2.633">♪ COUNTRY ROADS ♪</text><text start="57.666" dur="1.367">♪ (IF I SHOULD STAY) ♪</text><text start="59.066" dur="3.434">♪ ALL MY MEMORIES, THEY
+GATHER &amp;#39;ROUND HER ♪</text><text start="62.533" dur="1.8">♪ (I WOULD ONLY BE
+IN YOUR WAY) ♪</text><text start="64.366" dur="3.967">♪ A MINER&amp;#39;S LADY,
+STRANGER TO BLUE WATER ♪</text><text start="68.366" dur="1.7">♪ (SO I&amp;#39;LL GO,
+YET I KNOW) ♪</text><text start="70.1" dur="3.433">♪ DARK AND DUSTY,
+PAINTED ON THE SKY ♪</text><text start="73.566" dur="1.9">♪ (I&amp;#39;LL THINK OF YOU
+EACH STEP OF THE WAY) ♪</text><text start="75.5" dur="3.2">♪ MISTY TASTE OF MOONSHINE,
+TEARDROPS IN MY EYES ♪</text><text start="78.733" dur="5.333">♪ COUNTRY ROADS,
+TAKE ME HOME ♪</text><text start="84.1" dur="2.266">♪ TO THE PLACE
+I BELONG ♪</text><text start="86.4" dur="2.9">♪ (AND I WILL
+ALWAYS LOVE YOU) ♪</text><text start="89.333" dur="2.433">♪ WEST VIRGINIA,
+MOUNTAIN MOMMA ♪</text><text start="92" dur="2.466">♪ (I WILL ALWAYS
+LOVE YOU) ♪</text><text start="94.5" dur="5.666">♪ TAKE ME HOME
+COUNTRY ROADS ♪</text><text start="100.2" dur="2.966">♪ ON THE ROAD AGAIN ♪</text><text start="103.2" dur="5">♪ LIKE A BAND OF GYPSIES
+WE GO DOWN THE HIGHWAY ♪</text><text start="108.233" dur="3">♪ WE&amp;#39;RE THE BEST
+OF FRIENDS ♪</text><text start="111.266" dur="4.9">♪ INSISTING THAT THE WORLD
+KEEP TURNING OUR WAY ♪</text><text start="116.2" dur="3.033">♪ TURNING OUR WAY ♪</text><text start="119.266" dur="1.167">♪ COUNTRY ROADS ♪</text><text start="120.466" dur="0.967">♪ (COUNTRY ROADS) ♪</text><text start="121.466" dur="1.134">♪ TAKE ME HOME ♪</text><text start="122.633" dur="1.567">♪ (TAKE ME HOME) ♪</text><text start="124.233" dur="1.967">♪ TO THE PLACE I
+BELONG ♪</text><text start="126.233" dur="3.267">♪ AND I WILL
+ALWAYS LOVE YOU ♪</text><text start="129.533" dur="2.933">♪ WEST VIRGINIA,
+MOUNTAIN MOMMA ♪</text><text start="132.5" dur="1.733">♪ (I WILL ALWAYS
+LOVE YOU) ♪</text><text start="134.266" dur="5.5">♪ TAKE ME HOME,
+COUNTRY ROADS ♪</text><text start="140" dur="5.466">♪ OH I HOPE LIFE
+TREATS YOU KIND ♪</text><text start="145.5" dur="5.133">♪ AND I HOPE YOU HAVE
+ALL YOU DREAMED OF ♪</text><text start="150.666" dur="5.7">♪ I WISH YOU JOY
+AND HAPPINESS ♪</text><text start="156.4" dur="7.633">♪ BUT ABOVE ALL THIS
+I WISH YOU LOVE ♪</text><text start="164.066" dur="10.334">♪ AND I WILL ALWAYS
+LOVE YOU, I ♪</text><text start="174.433" dur="3.067">♪ WILL ALWAYS LOVE YOU ♪</text><text start="177.533" dur="6.1">♪ TAKE ME HOME,
+COUNTRY ROADS ♪</text><text start="184.533" dur="2.667">♪ TAKE ME HOME,
+COUNTRY ROADS ♪</text><text start="187.233" dur="4.9">♪ AND I WILL
+ALWAYS LOVE YOU ♪</text><text start="192.166" dur="2.967">♪ ON THE ROAD AGAIN ♪</text><text start="195.166" dur="1.967">♪ I WILL ALWAYS
+LOVE YOU ♪</text><text start="197.166" dur="1.467">♪ I JUST CAN&amp;#39;T WAIT TO
+GET ON THE ROAD AGAIN ♪</text><text start="198.666" dur="1.7">♪ I WILL ALWAYS
+LOVE YOU ♪</text><text start="200.4" dur="1.8">♪ TAKE ME HOME, ♪</text><text start="202.233" dur="1.8">♪ COUNTRY ROADS ♪</text><text start="204.066" dur="1.934">♪ THE LIFE I LOVE IS MAKIN&amp;#39;
+MUSIC WITH MY FRIENDS ♪</text><text start="206.033" dur="0.7">♪ TAKE ME HOME ♪</text><text start="206.766" dur="0.967">♪ COUNTRY ROADS ♪</text><text start="207.766" dur="1.767">♪ AND I WILL ALWAYS
+LOVE YOU ♪</text><text start="209.566" dur="1.167">♪ WITH MY FRIENDS ♪</text><text start="210.766" dur="2.5">♪ I CAN&amp;#39;T WAIT TO GET
+ON THE ROAD AGAIN ♪</text><text start="213.3" dur="3.466">♪ TAKE ME HOME,
+COUNTRY ROADS ♪</text><text start="217" dur="14.6">♪ AND I WILL ALWAYS LOVE
+YOU, I&amp;#39;LL ALWAYS LOVE YOU ♪</text></transcript>

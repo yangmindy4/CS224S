@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?><transcript><text start="0.733" dur="2.467">(FOOTSTEPS, WOOD CREAKING)</text><text start="9.766" dur="9.267">♪ ♪</text><text start="19.066" dur="1.3">♪ THEY SAY ♪</text><text start="20.4" dur="1.866">♪ YOU&amp;#39;RE NOT GOOD ENOUGH ♪</text><text start="22.3" dur="3.1">♪ YOU&amp;#39;RE NOT BRAVE ENOUGH ♪</text><text start="25.433" dur="2.667">♪ YOU SHOULD COVER
+UP YOUR BODY ♪</text><text start="30.133" dur="2.067">♪ TELL ME WATCH MY WEIGHT ♪</text><text start="32.233" dur="3.167">♪ GOTTA PAINT MY FACE ♪</text><text start="35.433" dur="3.267">♪ OR ELSE NO ONE&amp;#39;S
+GONNA WANT ME ♪</text><text start="38.733" dur="2.9">♪ WHY DO WE SAY
+THIS TO OURSELVES ♪</text><text start="41.666" dur="2.6">♪ AND EVEN WORSE
+TO EACH OTHER ♪</text><text start="44.3" dur="4.833">♪ WHY DO WE SAY THIS
+TO OURSELVES, OH ♪</text><text start="49.166" dur="4.4">♪ WE GOTTA GET
+BACK TO BEAUTIFUL ♪</text><text start="53.6" dur="5.166">♪ GOTTA GET BACK
+TO BEAUTIFUL ♪</text><text start="59" dur="2.233">♪ ALL THESE WORDS
+STARTING WARS ♪</text><text start="61.266" dur="2.5">♪ OVER WHO CAN
+HURT WHO MORE ♪</text><text start="64" dur="6.4">♪ GOTTA GET BACK
+TO BEAUTIFUL ♪</text><text start="70.433" dur="2.3">♪ BEAUTIFUL ♪</text><text start="72.766" dur="2.567">♪ BEAUTIFUL ♪</text><text start="75.366" dur="2.167">♪ BEAUTIFUL ♪</text><text start="77.566" dur="2.8">♪ BEAUTIFUL ♪</text><text start="80.4" dur="2.3">♪ BEAUTIFUL ♪</text><text start="82.733" dur="2.567">♪ BEAUTIFUL ♪</text><text start="85.333" dur="2.433">♪ BEAUTIFUL ♪</text><text start="88" dur="2.133">♪ BEAUTIFUL ♪</text><text start="90.166" dur="2.067">♪ JUDGING WHO WE LOVE ♪</text><text start="92.266" dur="1.734">♪ JUDGING WHERE WE&amp;#39;RE FROM ♪</text><text start="94.033" dur="1.3">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ WHERE WE&amp;#39;RE FROM ♪&lt;/i&gt;&lt;/font&gt;</text><text start="95.366" dur="2.634">♪ WHEN DID THIS
+BECOME SO NORMAL ♪</text><text start="100" dur="3.633">♪ CELEBRATING HATE
+IS NOW A COMMONPLACE ♪</text><text start="103.666" dur="1.834">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ COMMONPLACE ♪&lt;/i&gt;&lt;/font&gt;</text><text start="105.533" dur="3.5">♪ WHEN DID THIS
+BECOME SO NORMAL ♪</text><text start="109.066" dur="2.167">♪ WHY DO WE SAY
+THIS TO OURSELVES ♪</text><text start="111.266" dur="2.767">♪ AND EVEN WORSE
+TO EACH OTHER ♪</text><text start="114.066" dur="4.7">♪ WHY DO WE SAY THIS
+TO OURSELVES, OH ♪</text><text start="119" dur="1.5">♪ WHY DO WE SAY
+THIS TO OURSELVES ♪</text><text start="120.533" dur="1.133">♪ WHY ♪</text><text start="121.7" dur="1.333">♪ AND EVEN WORSE
+TO EACH OTHER ♪</text><text start="123.066" dur="1.4">♪ OH ♪</text><text start="124.5" dur="4.1">♪ WHY DO WE SAY THIS
+TO OURSELVES, OH ♪</text><text start="128.633" dur="5.033">♪ WE GOTTA GET
+BACK TO BEAUTIFUL ♪</text><text start="133.7" dur="3.966">♪ GOTTA GET BACK
+TO BEAUTIFUL ♪</text><text start="137.7" dur="1.6">&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;♪ GET BACK, OH ♪&lt;/i&gt;&lt;/font&gt;</text><text start="139.333" dur="1.9">♪ ALL THESE WORDS
+STARTING WARS ♪</text><text start="141.266" dur="2.267">♪ OVER WHO CAN
+HURT WHO MORE ♪</text><text start="143.566" dur="6.567">♪ GOTTA GET BACK
+TO BEAUTIFUL ♪</text><text start="150.166" dur="2.434">♪ BEAUTIFUL ♪</text><text start="152.633" dur="2.4">♪ BEAUTIFUL ♪</text><text start="155.066" dur="2.567">♪ BEAUTIFUL ♪</text><text start="157.666" dur="2.467">♪ BEAUTIFUL ♪</text><text start="160.166" dur="2.3">♪ BEAUTIFUL ♪</text><text start="162.5" dur="2.733">♪ BEAUTIFUL ♪</text><text start="165.266" dur="2.034">♪ BEAUTIFUL ♪</text><text start="167.333" dur="1.3">♪ BEAUTIFUL ♪</text><text start="168.666" dur="5.067">♪ WE GOTTA GET
+BACK TO BEAUTIFUL ♪</text><text start="173.766" dur="4.9">♪ GOTTA GET BACK
+TO BEAUTIFUL ♪</text><text start="178.7" dur="2.4">♪ ALL THESE WORDS
+STARTING WARS ♪</text><text start="181.133" dur="2.9">♪ OVER WHO CAN
+HURT WHO MORE ♪</text><text start="184.066" dur="5.634">♪ GOTTA GET BACK
+TO BEAUTIFUL ♪</text><text start="189.733" dur="2.767">♪ BEAUTIFUL ♪</text><text start="192.533" dur="2.467">♪ BEAUTIFUL ♪</text><text start="195.033" dur="3.067">♪ BEAUTIFUL ♪</text><text start="198.133" dur="2.1">♪ BEAUTIFUL ♪</text><text start="200.266" dur="2.267">♪ BEAUTIFUL ♪</text><text start="202.566" dur="2.834">♪ BEAUTIFUL ♪</text><text start="205.433" dur="2.133">♪ BEAUTIFUL ♪</text><text start="207.6" dur="1.5">♪ BEAUTIFUL ♪</text></transcript>

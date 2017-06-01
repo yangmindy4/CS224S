@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?><transcript><text start="2.127" dur="2.294">(GUN COCKED)</text><text start="6.84" dur="1.918">(GUN COCKED)</text><text start="11.177" dur="4.213">♪ ♪</text><text start="16.433" dur="7.924">♪ ♪</text><text start="24.357" dur="4.088">♪ THIS IS THE FACE I WEAR,
+TREADING THE RIPTIDE, ♪</text><text start="28.445" dur="4.671">♪ ABYSMAL OCEANS WHERE
+GOOD GIRLS GO TO DIE ♪</text><text start="33.116" dur="3.587">♪ I WANNA LOVE SOMEBODY ♪</text><text start="36.703" dur="2.419">♪ WANNA FEEL
+THEIR LOVE ON ME ♪</text><text start="39.122" dur="3.629">♪ BUT AFTER EVERYTHING I
+STILL BELIEVE IN TRUE LOVE ♪</text><text start="42.751" dur="2.168">♪ NOT BEING ABLE TO FIND IT ♪</text><text start="44.919" dur="1.794">♪ DAMN IT TEARS ME UP ♪</text><text start="46.713" dur="3.837">♪ AND I KNOW IT&amp;#39;S MY FAULT ♪</text><text start="50.55" dur="3.837">♪ I KNOW IT&amp;#39;S MY FAULT ♪</text><text start="54.387" dur="1.293">♪ LET&amp;#39;S TAKE A TRIP, ♪</text><text start="55.68" dur="2.836">♪ TEN THOUSAND MILES
+ABOVE THE CLOUDS ♪</text><text start="58.516" dur="3.921">♪ WE CAN STAY UP HERE
+UNTIL WE FIGURE IT OUT ♪</text><text start="62.437" dur="3.295">♪ I DON&amp;#39;T WANNA GO HOME ♪</text><text start="65.732" dur="4.296">♪ DON&amp;#39;T WANNA BE
+ALONE (BE ALONE) ♪</text><text start="70.028" dur="2.878">♪ I&amp;#39;VE GOT SOME DAMN
+BAD INTENTIONS ♪</text><text start="73.782" dur="3.044">♪ I&amp;#39;VE GOT SOME DAMN
+BAD INTENTIONS ♪</text><text start="77.744" dur="3.211">♪ I&amp;#39;VE GOT SOME SECRETS
+I FORGOT TO MENTION, ♪</text><text start="80.955" dur="4.505">♪ HAVEN&amp;#39;T LEARNED
+MY LESSON, OH ♪</text><text start="85.46" dur="2.961">♪ I&amp;#39;VE GOT SOME DAMN
+BAD INTENTIONS ♪</text><text start="89.255" dur="3.087">♪ I&amp;#39;VE GOT SOME DAMN
+BAD INTENTIONS ♪</text><text start="93.051" dur="3.378">♪ I&amp;#39;VE GOT SOME SECRETS
+I FORGOT TO MENTION, ♪</text><text start="96.429" dur="4.546">♪ HAVEN&amp;#39;T LEARNED
+MY LESSON, OH ♪</text><text start="101.559" dur="2.086">♪ I&amp;#39;M LOVING ALL THE
+FLAWS (LOVING IT) ♪</text><text start="103.645" dur="2.043">♪ I&amp;#39;M LOVING ALL THE
+FLAWS (LOVING IT) ♪</text><text start="105.688" dur="1.961">♪ I GOT BAD INTENTIONS,
+DON&amp;#39;T PAY ATTENTION ♪</text><text start="107.649" dur="1.585">♪ CAUSE I BE
+ON MY DOGS ♪</text><text start="109.234" dur="1.96">♪ I DONE TRAVELED LIKE
+TEN THOUSAND MILES ♪</text><text start="111.194" dur="1.96">♪ LOOKING FOR SOMEONE
+TO MATCH MY STYLE ♪</text><text start="113.154" dur="1.919">♪ IT ALWAYS END UP
+NOT WORKING OUT ♪</text><text start="115.073" dur="2.002">♪ CAUSE THEY NOT READY
+FOR MY LIFESTYLE ♪</text><text start="117.075" dur="1.877">♪ IS YOU THE ONE
+I CAN TALK TOO? ♪</text><text start="118.952" dur="1.96">♪ IS YOU THE ONE
+I CAN CALL BOO? ♪</text><text start="120.912" dur="1.919">♪ CAUSE BABY, I
+THINK I DESERVE YOU ♪</text><text start="122.831" dur="2.043">♪ I PROMISE I&amp;#39;M NEVER
+GON&amp;#39; DOUBT YOU ♪</text><text start="124.874" dur="1.043">♪ I KNOW YOU&amp;#39;RE
+TIRED OF ME, ♪</text><text start="125.917" dur="1.335">♪ KNOW YOU&amp;#39;RE TIRED OF ME ♪</text><text start="127.252" dur="1.668">♪ ONE MORE CHANCE, I&amp;#39;MMA
+MAKE YOU PROUD OF ME ♪</text><text start="128.92" dur="1.835">♪ I&amp;#39;LL NEVER GIVE OUR
+LOVE AWAY, BABY ♪</text><text start="130.755" dur="1.835">♪ EVEN IF IT&amp;#39;S GOING
+DOWN, DOWN, DOWN ♪</text><text start="132.59" dur="2.253">♪ I&amp;#39;VE GOT SOME DAMN
+BAD INTENTIONS ♪</text><text start="135.76" dur="2.961">♪ I&amp;#39;VE GOT SOME DAMN
+BAD INTENTIONS ♪</text><text start="139.722" dur="3.17">♪ I&amp;#39;VE GOT SOME SECRETS
+I FORGOT TO MENTION, ♪</text><text start="142.892" dur="4.463">♪ HAVEN&amp;#39;T LEARNED
+MY LESSON, OH ♪</text><text start="147.355" dur="3.045">♪ I&amp;#39;VE GOT SOME DAMN
+BAD INTENTIONS ♪</text><text start="150.984" dur="3.336">♪ I&amp;#39;VE GOT SOME DAMN
+BAD INTENTIONS ♪</text><text start="155.113" dur="3.17">♪ I&amp;#39;VE GOT SOME SECRETS
+I FORGOT TO MENTION, ♪</text><text start="158.283" dur="4.796">♪ HAVEN&amp;#39;T LEARNED
+MY LESSON, OH ♪</text><text start="163.621" dur="0.918">♪ TAKEOFF ♪</text><text start="164.539" dur="1.251">♪ I GOT SOME BAD INTENTIONS ♪</text><text start="165.79" dur="1.376">♪ GOT SOME SECRETS THAT
+I FORGOT TO MENTION ♪</text><text start="167.166" dur="1.544">♪ BABY, LISTEN UP ♪</text><text start="168.71" dur="1.585">♪ WE BEEN THROUGH PAIN BUT
+BEEN THROUGH MOST HAVE SAID ♪</text><text start="170.295" dur="1.668">♪ BUT WE PROMISED TO ALWAYS TELL
+HOW WE FEEL (PROMISE YOU) ♪</text><text start="171.963" dur="1.335">♪ WHEN IT GET HOT,
+WE GET COOLER ♪</text><text start="173.298" dur="1.96">♪ PUT THE PAST BEHIND US,
+MOVE ON TO THE FUTURE ♪</text><text start="175.258" dur="1.918">♪ WE LISTEN TO RUMORS
+MADE UP BY COMPUTERS ♪</text><text start="177.176" dur="2.002">♪ YOU SHOW ME THE BEST OF
+YOUR BRAIN LIKE A TUTOR ♪</text><text start="179.178" dur="2.336">♪ DEEP DOWN INSIDE, I
+REALLY WANNA TELL YA ♪</text><text start="181.514" dur="1.96">♪ WHEN I PRAY FOR ME, I
+PRAY WE STAY TOGETHER ♪</text><text start="183.474" dur="1.794">♪ SHOW ME YOUR EMOTIONS,
+TELL ME ALL YOUR FEELINGS ♪</text><text start="185.268" dur="1.627">♪ DON&amp;#39;T BE SCARED
+TO TELL ME WHATEVER ♪</text><text start="186.895" dur="1.96">♪ I MAKE MISTAKES, YOU
+MAKE MISTAKES ♪</text><text start="188.855" dur="1.668">♪ YOU KNOW THAT WE
+CAN&amp;#39;T BE MAD FOREVER ♪</text><text start="190.523" dur="2.753">♪ AND I DIDN&amp;#39;T LIKE THAT
+LITTLE GAME WE PLAYED ♪</text><text start="193.276" dur="1.084">♪ I KNOW THAT WE GON&amp;#39;
+GET BETTER ♪</text><text start="194.36" dur="1.126">♪ FROM THE FIRST
+TIME I MET YOU , ♪</text><text start="195.486" dur="1.335">♪ KNEW THAT YOU
+WERE SPECIAL ♪</text><text start="196.821" dur="1.627">♪ TOLD YOU TO HOLD ME DOWN
+AND NEVER LET UP ♪</text><text start="198.448" dur="2.043">♪ WHEN I HAD TO SIT DOWN,
+YOU WAS WRITING LETTERS ♪</text><text start="200.491" dur="1.961">♪ YOU TOLD ME TO THINK
+ABOUT US, DON&amp;#39;T BE
+SELFISH ♪</text><text start="202.452" dur="1.918">♪ LAY ON YOUR BACK, GIVE IT TO
+ME, I NEED IT ♪</text><text start="204.37" dur="1.627">♪ I DIDN&amp;#39;T HAVE BAD
+INTENTIONS WHEN I CHEATED ♪</text><text start="205.997" dur="1.835">♪ PUT YOUR HEAD ON MY
+SHOULDER LIKE IT&amp;#39;S
+TEMPUR-PEDIC ♪</text><text start="207.832" dur="2.586">♪ WITH NO DOUBT, YOU KNOW I
+GOT HER BACK, I WON&amp;#39;T LEAVE
+HER ♪</text><text start="210.418" dur="3.921">♪ I KNOW WE&amp;#39;VE MADE A
+GRAVEYARD OF THIS ALL ♪</text><text start="214.339" dur="3.878">♪ I KNOW I DON&amp;#39;T FEEL TOO
+SOBER NOW ♪</text><text start="218.217" dur="3.879">♪ I WANNA LIE AWAKE WITH
+YOUR BLACK SOUL ♪</text><text start="222.096" dur="2.002">♪ COUNT YOUR FEARS IF YOU
+LET ME ♪</text><text start="224.098" dur="4.129">♪ BABY I JUST WANT YOUR
+DAMN BAD INTENTIONS ♪</text><text start="228.77" dur="3.503">♪ I&amp;#39;VE GOT SOME DAMN
+BAD INTENTIONS ♪</text><text start="232.69" dur="3.17">♪ I&amp;#39;VE GOT SOME SECRETS
+I FORGOT TO MENTION, ♪</text><text start="235.86" dur="4.546">♪ HAVEN&amp;#39;T LEARNED
+MY LESSON, OH ♪</text><text start="240.406" dur="3.337">♪ I JUST GOT SOME DAMN
+BAD INTENTIONS ♪</text><text start="243.743" dur="3.962">♪ WOOO, I&amp;#39;VE GOT SOME DAMN
+BAD INTENTIONS ♪</text><text start="248.164" dur="3.17">♪ I&amp;#39;VE GOT SOME SECRETS
+I FORGOT TO MENTION, ♪</text><text start="251.334" dur="5.005">♪ HAVEN&amp;#39;T LEARNED
+MY LESSON, OH ♪</text><text start="256.339" dur="2.21">♪ ♪</text><text start="258.549" dur="2.545">(GUN SHOTS)</text></transcript>
